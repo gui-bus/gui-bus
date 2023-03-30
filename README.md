@@ -46,7 +46,7 @@
   <h3>
     Meus principais projetos até o momento! :open_file_folder:<br>
   </h3>
-  <a href="https://github.com/gui-bus/james-webb">James Webb Space Telescope</a>
+  <a href="https://github.com/gui-bus/james-webb"><strong>James Webb Space Telescope</strong></a> :link:
 </div>
   
 <div align="center">
