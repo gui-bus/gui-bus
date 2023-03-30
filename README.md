@@ -8,7 +8,10 @@
 </h1>
  
 <p align="center">
-  Sou um entusiasta de tecnologia e vi na área da programação o caminho que desejo seguir. No momento sou estudante de Front End e estou motivado a aprender o máximo     possivel sobre a area, dessa forma adquirindo o conhecimento e as habilidades necessárias para alcançar o topo. Tenho como objetivo me tornar um desenvolvedor         FullStack altamente qualificado! :rocket: 
+  <strong>Sou um entusiasta de tecnologia e vi na área da programação o caminho que desejo seguir.</strong> :dart: 
+  <br> 
+  No momento sou estudante de Front End e estou motivado a aprender o máximo possivel sobre a area, dessa forma adquirindo o conhecimento e as habilidades necessárias   para alcançar o topo. <br> <br>
+  Tenho como objetivo me tornar um <strong>desenvolvedor FullStack altamente qualificado!</strong> :rocket: 
 </p>
   
 
@@ -22,25 +25,30 @@
 </div>
 
 <div align="center" valign="top">
-  <h2>
-  Tecnologias que utilizo :dart:
-  </h2>
+  <br>
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 <div align="center">
- <h2>
-  Redes sociais para contato! :speech_balloon:
- </h2>
-  <img align="center" alt="HTML" height="50" width="60" src="https://img.icons8.com/color/48/000000/linkedin.png">
+ <h3>
+  Algum projeto em mente? Me mande uma mensagem! :speech_balloon:
+ </h3>
   <a href="https://www.linkedin.com/in/gui-bus/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" target="_blank"></a>
   <a href="https://www.instagram.com/guibus_dev/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target="_blank"></a>
   <a href="https://twitter.com/guibus_dev/" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" target="_blank"></a> 
   <a href="mailto:guibus.dev@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" target="_blank"></a>
 </div>
 
+ 
+<div align="center">
+  <h3>
+    Meus principais projetos até o momento! :open_file_folder:<br>
+  </h3>
+  <a href="https://github.com/gui-bus/james-webb">James Webb Space Telescope</a>
+</div>
+  
 <div align="center">
 
   ![Snake animation](https://github.com/gui-bus/gui-bus/blob/output/github-contribution-grid-snake.svg)
