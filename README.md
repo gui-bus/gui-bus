@@ -14,7 +14,7 @@
 
 ## Redes sociais para contato! :speech_balloon:
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/gui-bus/)
-[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/gui-bus/)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/gui-bus_dev/)
 [![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/guibus_dev/)
 [![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:guibus.dev@gmail.com)
  
