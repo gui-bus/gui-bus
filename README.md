@@ -6,18 +6,15 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-bus&layout=compact&langs_count=6&theme=github_dark"/>
 
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
  
- <br>
+## Tecnologias que utilizo :dart:
+![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![JS](https://img.icons8.com/color/48/000000/javascript--v1.png)
+
+## Redes sociais para contato! :speech_balloon:
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/gui-bus/)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/gui-bus/)
+[![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/guibus_dev/)
+[![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:guibus.dev@gmail.com)
  
-  ### Redes sociais para contato!
- 
-<div> 
-  <a href="https://instagram.com/guibus_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guibus.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gui-bus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
