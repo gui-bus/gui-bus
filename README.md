@@ -20,7 +20,7 @@
 <div align="center">
  <a href="https://github.com/gui-bus">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gui-bus&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-   <img height="150em" src=""/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-bus&layout=compact&langs_count=6&theme=github_dark"/>
  
 </div>
 
