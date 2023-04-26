@@ -56,7 +56,7 @@
   <br>
   <a href="https://github.com/gui-bus/james-webb"><strong>James Webb Space Telescope</strong></a> :link:
   <br>
-  <a href="https://gui-bus.github.io/mars"><strong>Formulário da missão Horizonte Vermelho</strong></a> :link:
+  <a href="https://github.com/gui-bus/mars"><strong>Formulário da missão Horizonte Vermelho</strong></a> :link:
 </div>
   
 <div align="center">
