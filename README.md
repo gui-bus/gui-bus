@@ -26,9 +26,15 @@
 
 <div align="center" valign="top">
   <br>
-  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Bootstrap" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Bootstrap" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg">
+  <img align="center" alt="Bootstrap" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bulma/bulma-plain.svg">
+  
+  
+  
 </div>
 
 <div align="center">
@@ -49,6 +55,8 @@
   <a href="https://github.com/gui-bus/link-hub"><strong>Link Hub</strong></a> :link: 
   <br>
   <a href="https://github.com/gui-bus/james-webb"><strong>James Webb Space Telescope</strong></a> :link:
+  <br>
+  <a href="https://gui-bus.github.io/mars"><strong>Formulário da missão Horizonte Vermelho</strong></a> :link:
 </div>
   
 <div align="center">
