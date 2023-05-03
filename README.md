@@ -52,6 +52,8 @@
   <h3>
     Meus principais projetos até o momento! :open_file_folder:<br>
   </h3>
+  <a href="https://github.com/gui-bus/SpaceX"><strong>SpaceX</strong></a> :link: 
+  <br>
   <a href="https://github.com/gui-bus/link-hub"><strong>Link Hub</strong></a> :link: 
   <br>
   <a href="https://github.com/gui-bus/james-webb"><strong>James Webb Space Telescope</strong></a> :link:
