@@ -54,6 +54,8 @@
   </h3>
   <a href="https://github.com/gui-bus/SpaceX"><strong>SpaceX</strong></a> :link: 
   <br>
+  <a href="https://github.com/gui-bus/weatherTracker"><strong>Weather Tracker</strong></a> :link: 
+  <br>
   <a href="https://github.com/gui-bus/jamesWebb"><strong>James Webb Space Telescope</strong></a> :link:
   <br>
   <a href="https://github.com/gui-bus/mars"><strong>Formulário da missão de Marte</strong></a> :link:
