@@ -8,10 +8,9 @@
 </h1>
 <p align="center">
   <strong>Sou um entusiasta de tecnologia e encontrei na programação minha paixão e caminho profissional.</strong> :dart: 
-  <br> 
-  Como desenvolvedor Front End, estou em constante busca por aprendizado e aprimoramento, adquirindo conhecimentos e habilidades necessárias para alcançar meus objetivos. <br><br>
-  Neste perfil do GitHub, você encontrará uma variedade de projetos que demonstrem minhas habilidades e conhecimentos. Fique à vontade para explorar os repositórios e se você tiver alguma pergunta, ideia de colaboração ou apenas quiser bater um papo sobre desenvolvimento web, sinta-se à vontade para entrar em contato. <br> <br>
-  Meu objetivo é me tornar um <strong>desenvolvedor FullStack altamente qualificado!</strong> :rocket: 
+  <br> <br>
+  Como desenvolvedor Front End, estou em constante busca por aprendizado e aprimoramento, adquirindo conhecimentos e habilidades necessárias para alcançar o meu objetivo de me tornar um <strong>desenvolvedor FullStack!</strong> :rocket: <br><br>
+  Neste perfil do GitHub, você encontrará uma variedade de projetos que demonstrem minhas habilidades e conhecimentos. :mag: <br> Fique à vontade para explorar os repositórios e se você tiver alguma pergunta, ideia de colaboração ou apenas quiser bater um papo sobre desenvolvimento web, sinta-se à vontade para entrar em contato. 💬 <br> <br>
 </p>
   
 
@@ -39,7 +38,7 @@
 
 <div align="center">
  <h3>
-  Algum projeto em mente? Me mande uma mensagem! :speech_balloon:
+  Redes sociais para contato! :speech_balloon:
  </h3>
   <a href="https://www.linkedin.com/in/gui-bus/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" target="_blank"></a>
   <a href="https://www.instagram.com/guibus_dev/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target="_blank"></a>
@@ -52,7 +51,9 @@
   <h3>
     Meus principais projetos até o momento! :open_file_folder:<br>
   </h3>
-  <a href="https://github.com/gui-bus/SpaceX"><strong>SpaceX</strong></a> :link: 
+  <a href="https://github.com/gui-bus/cloneSpaceX"><strong>Clone SpaceX</strong></a> :link:
+  <br>
+  <a href="https://github.com/gui-bus/cloneSpotify"><strong>Clone Spotify</strong></a> :link: 
   <br>
   <a href="https://github.com/gui-bus/weatherTracker"><strong>Weather Tracker</strong></a> :link: 
   <br>
