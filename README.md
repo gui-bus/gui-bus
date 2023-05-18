@@ -1,17 +1,17 @@
 <h1 align="center">
   <p>
-    Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/gui-bus/">Guilherme Bustamante</a>
+    Olá, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/gui-bus/">Guilherme Bustamante</a>
   </p>
   <a>
-    Seja bem vindo ao meu perfil! 😄
+    Seja bem-vindo ao meu perfil! 😄
   </a>
 </h1>
- 
 <p align="center">
-  <strong>Sou um entusiasta de tecnologia e vi na área da programação o caminho que desejo seguir.</strong> :dart: 
+  <strong>Sou um entusiasta de tecnologia e encontrei na programação minha paixão e caminho profissional.</strong> :dart: 
   <br> 
-  No momento sou estudante de Front End e estou motivado a aprender o máximo possivel sobre a area, dessa forma adquirindo o conhecimento e as habilidades necessárias   para alcançar o topo. <br> <br>
-  Tenho como objetivo me tornar um <strong>desenvolvedor FullStack altamente qualificado!</strong> :rocket: 
+  Como desenvolvedor Front End, estou em constante busca por aprendizado e aprimoramento, adquirindo conhecimentos e habilidades necessárias para alcançar meus objetivos. <br><br>
+  Neste perfil do GitHub, você encontrará uma variedade de projetos que demonstrem minhas habilidades e conhecimentos. Fique à vontade para explorar os repositórios e se você tiver alguma pergunta, ideia de colaboração ou apenas quiser bater um papo sobre desenvolvimento web, sinta-se à vontade para entrar em contato. <br> <br>
+  Meu objetivo é me tornar um <strong>desenvolvedor FullStack altamente qualificado!</strong> :rocket: 
 </p>
   
 
