@@ -52,13 +52,15 @@
   <h3>
     Meus principais projetos até o momento! :open_file_folder:<br>
   </h3>
-  <a href="https://github.com/gui-bus/cloneSpaceX"><strong>Clone SpaceX</strong></a> :link:
+  <a href="https://github.com/gui-bus/jamesWebb"><strong>James Webb Space Telescope</strong></a> :link:
   <br>
-  <a href="https://github.com/gui-bus/cloneSpotify"><strong>Clone Spotify</strong></a> :link: 
+  <a href="https://github.com/gui-bus/qrWizard"><strong>QR Wizard</strong></a> :link:
+  <br>
+  <a href="https://github.com/gui-bus/cloneSpaceX"><strong>Clone SpaceX</strong></a> :link:
   <br>
   <a href="https://github.com/gui-bus/weatherTracker"><strong>Weather Tracker</strong></a> :link: 
   <br>
-  <a href="https://github.com/gui-bus/jamesWebb"><strong>James Webb Space Telescope</strong></a> :link:
+  <a href="https://github.com/gui-bus/cloneSpotify"><strong>Clone Spotify</strong></a> :link: 
   <br>
   <a href="https://github.com/gui-bus/mars"><strong>Formulário da missão de Marte</strong></a> :link:
 </div>
