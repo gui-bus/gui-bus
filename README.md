@@ -43,9 +43,8 @@
  <h3>
   Redes sociais para contato! :speech_balloon:
  </h3>
-  <a href="https://www.linkedin.com/in/gui-bus/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" target="_blank"></a>
-  <a href="https://www.instagram.com/guibus_dev/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target="_blank"></a>
-  <a href="https://twitter.com/guibus_dev/" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gui-bus/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" target="_blank"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/guibus_dev/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target="_blank"></a>&nbsp;&nbsp;
   <a href="mailto:guibus.dev@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" target="_blank"></a>
 </div>
 
@@ -56,15 +55,15 @@
   </h3>
   <a href="https://github.com/gui-bus/jamesWebb"><strong>James Webb Space Telescope</strong></a> :link:
   <br>
-  <a href="https://github.com/gui-bus/qrWizard"><strong>QR Wizard</strong></a> :link:
+  <a href="https://github.com/gui-bus/barberiaImperial/"><strong>LP Barbearia Imperial</strong></a> :link:
   <br>
-  <a href="https://github.com/gui-bus/cloneSpaceX"><strong>Clone SpaceX</strong></a> :link:
+  <a href="https://github.com/gui-bus/qrWizard"><strong>QR Wizard</strong></a> :link:
   <br>
   <a href="https://github.com/gui-bus/weatherTracker"><strong>Weather Tracker</strong></a> :link: 
   <br>
-  <a href="https://github.com/gui-bus/cloneSpotify"><strong>Clone Spotify</strong></a> :link: 
+  <a href="https://github.com/gui-bus/cloneSpaceX"><strong>Clone SpaceX</strong></a> :link:
   <br>
-  <a href="https://github.com/gui-bus/mars"><strong>Formulário da missão de Marte</strong></a> :link:
+  <a href="https://github.com/gui-bus/cloneSpotify"><strong>Clone Spotify</strong></a> :link: 
 </div>
   
 <div align="center">
