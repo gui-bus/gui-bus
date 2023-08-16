@@ -66,10 +66,4 @@
   <a href="https://github.com/gui-bus/cloneSpotify"><strong>Clone Spotify</strong></a> :link: 
 </div>
   
-<div align="center">
-
-  ![Snake animation](https://github.com/gui-bus/gui-bus/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
  
