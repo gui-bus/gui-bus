@@ -81,11 +81,20 @@
 
 <div align="center">
   <a href="https://github.com/gui-bus/Delimix">
-    <img src="https://github.com/gui-bus/Delimix/blob/main/src/img/DeliMix_Logo.png?raw=true" alt="James Webb" width="150" />
+    <img src="https://github.com/gui-bus/Delimix/blob/main/src/img/DeliMix_Logo.png?raw=true" alt="DeliMix" width="150" />
   </a>
   <p>O DeliMix é um cardápio online e delivery com pedidos via WhatsApp, desenvolvida com HTML, CSS, JavaScript e Tailwind CSS e criado para proporcionar a você uma experiência gastronômica incrível sem sair do conforto da sua casa.</p>
   
   [Repositorio](https://github.com/gui-bus/Delimix) - [Deploy](https://gui-bus.github.io/Delimix/)
+</div>
+
+<div align="center">
+  <a href="https://github.com/gui-bus/Linker">
+    <img src="https://raw.githubusercontent.com/gui-bus/Linker/main/src/assets/logo.png" alt="Linker" width="250" />
+  </a>
+  <p>O Linker é um hub personalizado para exibir todos os meus links. Descubra todos os meus projetos, acompanhe minhas últimas atualizações e conecte-se comigo nas redes sociais. Explore e encontre os links certos em um único lugar.</p>
+  
+  [Repositorio](https://github.com/gui-bus/Linker) - [Deploy](https://linkerhub.vercel.app/)
 </div>
 
 
