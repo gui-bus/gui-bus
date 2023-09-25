@@ -58,7 +58,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/gui-bus/drivex">
+  <a href="https://github.com/gui-bus/nextek">
     <img src="https://github.com/gui-bus/Nextek/blob/main/src/assets/logo.png?raw=true" alt="Nextek" width="350" />
   </a>
   <p>A Nextek é uma página web de e-commerce/carrinho desenvolvida com Vite, React, TypeScript e Tailwind CSS. <br> Explore a variedade de produtos de alta qualidade na Nextec, sua fonte confiável para eletrônicos, moda e joias. Descubra as últimas tendências e encontre produtos exclusivos. </p>
