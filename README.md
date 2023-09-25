@@ -50,9 +50,31 @@
   <a href="https://github.com/gui-bus/drivex">
     <img src="https://github.com/gui-bus/drivex/blob/main/src/assets/drivexLogo.png?raw=true" alt="DriveX" width="250" />
   </a>
-  <p>A DriveX é uma página web de compra e venda de veículos, desenvolvido com Vite, React, TypeScript e Tailwind CSS. O projeto conta com um sistema de autenticação com Firebase para gerenciar o login e registro de usuários, bem como um banco de dados Firestore para armazenar informações sobre veículos e usuários. Além disso, o projeto oferece a possibilidade de entrar em contato com os vendedores via WhatsApp.</p>
+  <p>A DriveX é uma página web de compra e venda de veículos desenvolvido com Vite, React, TypeScript, Firebase e Tailwind CSS. <br> O projeto conta com um sistema de autenticação com Firebase para gerenciar o login e registro de usuários, bem como um banco de dados Firestore para armazenar informações sobre veículos e usuários. Além disso, o projeto oferece a possibilidade de entrar em contato com os vendedores via WhatsApp.</p>
   
   [Repositorio](https://github.com/gui-bus/drivex) - [Deploy](https://drivex-cars.vercel.app/)
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/gui-bus/drivex">
+    <img src="https://github.com/gui-bus/Nextek/blob/main/src/assets/logo.png?raw=true" alt="Nextek" width="350" />
+  </a>
+  <p>A Nextek é uma página web de e-commerce/carrinho desenvolvida com Vite, React, TypeScript e Tailwind CSS. <br> Explore a variedade de produtos de alta qualidade na Nextec, sua fonte confiável para eletrônicos, moda e joias. Descubra as últimas tendências e encontre produtos exclusivos. </p>
+  
+  [Repositorio](https://github.com/gui-bus/Nextek/) - [Deploy](https://nextek.vercel.app/)
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/gui-bus/Linker">
+    <img src="https://raw.githubusercontent.com/gui-bus/Linker/main/src/assets/logo.png" alt="Linker" width="250" />
+  </a>
+  <p>O Linker é um hub personalizado desenvolvido com Vite, React, TypeScript, Firebase e Tailwind CSS para exibir todos os meus links. <br> Descubra todos os meus projetos, acompanhe minhas últimas atualizações e conecte-se comigo nas redes sociais. Explore e encontre os links certos em um único lugar.</p>
+  
+  [Repositorio](https://github.com/gui-bus/Linker) - [Deploy](https://linkerhub.vercel.app/)
 </div>
 
 <br>
@@ -61,9 +83,9 @@
   <a href="https://github.com/gui-bus/weatherTracker">
     <img src="https://github.com/gui-bus/weatherTracker/blob/main/src/images/logoDesktop.png?raw=true" alt="Weather Tracker" width="300" />
   </a>
-  <p>O Weather Tracker é uma pagina desenvolvida com HTML, CSS, JavaScript e Tailwind CSS que fornece informações precisas e atualizadas sobre as condições meteorológicas em tempo real de qualquer lugar do mundo, permitindo que você esteja sempre bem informado sobre o clima atual da cidade desejada.</p>
+  <p>O Weather Tracker é uma pagina desenvolvida com HTML, CSS, JavaScript e Tailwind CSS <br> Fornece informações precisas e atualizadas sobre as condições meteorológicas em tempo real de qualquer lugar do mundo, permitindo que você esteja sempre bem informado sobre o clima atual da cidade desejada.</p>
   
-  [Repositorio](https://github.com/gui-bus/weatherTracker) - [Deploy](https://gui-bus.github.io/weatherTracker/)
+  [Repositorio](https://github.com/gui-bus/Weather-Tracker) - [Deploy](https://gui-bus.github.io/Weather-Tracker/)
 </div>
 
 
@@ -83,20 +105,10 @@
   <a href="https://github.com/gui-bus/Delimix">
     <img src="https://github.com/gui-bus/Delimix/blob/main/src/img/DeliMix_Logo.png?raw=true" alt="DeliMix" width="150" />
   </a>
-  <p>O DeliMix é um cardápio online e delivery com pedidos via WhatsApp, desenvolvida com HTML, CSS, JavaScript e Tailwind CSS e criado para proporcionar a você uma experiência gastronômica incrível sem sair do conforto da sua casa.</p>
+  <p>O DeliMix é um cardápio online e delivery com pedidos via WhatsApp, desenvolvida com HTML, CSS, JavaScript e Tailwind CSS. <br> Criado para proporcionar a você uma experiência gastronômica incrível sem sair do conforto da sua casa.</p>
   
   [Repositorio](https://github.com/gui-bus/Delimix) - [Deploy](https://gui-bus.github.io/Delimix/)
 </div>
-
-<div align="center">
-  <a href="https://github.com/gui-bus/Linker">
-    <img src="https://raw.githubusercontent.com/gui-bus/Linker/main/src/assets/logo.png" alt="Linker" width="250" />
-  </a>
-  <p>O Linker é um hub personalizado para exibir todos os meus links. Descubra todos os meus projetos, acompanhe minhas últimas atualizações e conecte-se comigo nas redes sociais. Explore e encontre os links certos em um único lugar.</p>
-  
-  [Repositorio](https://github.com/gui-bus/Linker) - [Deploy](https://linkerhub.vercel.app/)
-</div>
-
 
 <br>
 
