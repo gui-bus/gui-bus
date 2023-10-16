@@ -24,22 +24,40 @@
   
 <h1 align="center">Tecnologias :gear:</h1>
 <p align="center">Abaixo está uma lista das tecnologias que ja tive contato e constantemente utilizo em meus projetos.</p>
-<img alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
-<img alt="Typescript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg">
-<img alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
-<img alt="Vite" height="50" width="60" src="https://vitejs.dev/logo.svg">
-<img alt="NextAuth" height="50" width="50" src="https://next-auth.js.org/img/logo/logo-sm.png">
-<img alt="NextJS" height="50" width="50" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
-<img alt="Firebase" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg">
-<img alt="Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg">
-<img alt="Sass" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg">
-<img alt="Bootstrap" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg">
-<img alt="Tailwind" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
-<img alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
-<img alt="Figma" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+
+<div style="text-align: center;">
+  <img alt="Javascript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
+  <img alt="Typescript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg">
+  <img alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
+  <img alt="Vite" height="50" width="60" src="https://vitejs.dev/logo.svg">
+  <img alt="NextJS" height="50" width="50" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
+  <img alt="Next Auth" height="50" width="50" src="https://next-auth.js.org/img/logo/logo-sm.png">
+  <img alt="Prisma" height="50" width="50" src="https://www.svgrepo.com/show/373776/light-prisma.svg">
+  <img alt="Supabase" height="50" width="50" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png">
+  <img alt="Firebase" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg">
+  <img alt="NextUI" height="50" width="50" src="https://github.com/nextui-org/nextui/blob/main/apps/docs/public/isotipo.png?raw=true">
+  <img alt="Shad CN/UI" height="50" width="50" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4">
+  <img alt="Tailwind" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg">
+  <img alt="Sass" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg">
+  <img alt="Bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg">
+  <img alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
+  <img alt="Figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  <img alt="Vercel" height="50" width="50" src="https://www.svgrepo.com/show/361653/vercel-logo.svg">
+  <img alt="GIT" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg">
 </div>
 
 <h1 align="center">Principais projetos :file_folder:</h1>
+<br>
+
+<div align="center">
+  <a href="https://github.com/gui-bus/Hotefy">
+    <img src="https://github.com/gui-bus/Hotefy/blob/main/public/logo.png?raw=true" alt="Hotefy" width="300" />
+  </a>
+  <p>O Hotefy é uma plataforma de reservas de viagens desenvolvido com React, Typescript, Next.js, NextUI, ShadCN/UI, Tailwind CSS, Prisma, Supabase e Vercel. <br> O projeto conta com opçoes de viagens para todos os gostos, venha encontrar o refúgio perfeito e realizar os seus sonhos! </p>
+  
+  [Repositorio](https://github.com/gui-bus/Hotefy) - [Deploy](https://hotefy.vercel.app/)
+</div>
+
 <br>
 
 <div align="center">
@@ -54,12 +72,12 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/gui-bus/nextek">
-    <img src="https://github.com/gui-bus/Nextek/blob/main/src/assets/logo.png?raw=true" alt="Nextek" width="300" />
+  <a href="https://github.com/gui-bus/Cinedex">
+    <img src="https://github.com/gui-bus/Cinedex/blob/main/public/cinedex.png?raw=true" alt="Cinedex" width="300" />
   </a>
-  <p>A Nextek é uma página web de e-commerce/carrinho desenvolvida com Vite, React, TypeScript e Tailwind CSS. <br> Explore a variedade de produtos de alta qualidade na Nextec, sua fonte confiável para eletrônicos, moda e joias. Descubra as últimas tendências e encontre produtos exclusivos. </p>
+  <p>A Cinedex é uma plataforma online de catálogo de filmes, desenvolvido com React, Typescript, Next.js, NextUI, Tailwind CSS e Vercel. <br> O projeto conta com uma ampla gama de opções de filmes separados por categorias e gêneros para explorar!</p>
   
-  [Repositorio](https://github.com/gui-bus/Nextek/) - [Deploy](https://nextek.vercel.app/)
+  [Repositorio](https://github.com/gui-bus/Cinedex) - [Deploy](https://cinedex.vercel.app/discover/now_playing)
 </div>
 
 <br>
@@ -68,20 +86,9 @@
   <a href="https://github.com/gui-bus/Taskify">
     <img src="https://github.com/gui-bus/Taskify/blob/main/public/assets/logo.png" alt="Taskify" width="300" />
   </a>
-  <p>O Taskify é uma página web de lista de tarefas desenvolvida com React, TypeScript, NextJS, Firebase e Tailwind CSS. ✔️ <br> Organize suas tarefas de forma eficiente!</p>
+  <p>O Taskify é uma página web de lista de tarefas desenvolvida com React, TypeScript, NextJS, Firebase e Tailwind CSS. <br> Organize suas tarefas de forma eficiente!</p>
   
   [Repositorio](https://github.com/gui-bus/Taskify) - [Deploy](https://taskify-project.vercel.app/)
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/gui-bus/Linker">
-    <img src="https://raw.githubusercontent.com/gui-bus/Linker/main/src/assets/logo.png" alt="Linker" width="300" />
-  </a>
-  <p>O Linker é um hub personalizado desenvolvido com Vite, React, TypeScript, Firebase e Tailwind CSS para exibir todos os meus links. <br> Descubra todos os meus projetos, acompanhe minhas últimas atualizações e conecte-se comigo nas redes sociais. Explore e encontre os links certos em um único lugar.</p>
-  
-  [Repositorio](https://github.com/gui-bus/Linker) - [Deploy](https://linkerhub.vercel.app/)
 </div>
 
 <br>
