@@ -13,37 +13,48 @@
   Como desenvolvedor Front End, estou em constante busca por aprendizado e aprimoramento, adquirindo conhecimentos e habilidades necessárias para alcançar o meu objetivo de me tornar um <strong>desenvolvedor FullStack!</strong> :rocket: <br><br>
   Neste perfil do GitHub, você encontrará uma variedade de projetos que demonstrem minhas habilidades e conhecimentos. :mag: <br> Fique à vontade para explorar os repositórios e se você tiver alguma pergunta, ideia de colaboração ou apenas quiser bater um papo sobre desenvolvimento web, sinta-se à vontade para entrar em contato. :speech_balloon: <br>
 </p>
-<div align="center">
-  <a href="https://www.linkedin.com/in/gui-bus/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" target="_blank"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/guibus_dev/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target="_blank"></a>&nbsp;&nbsp;
-  <a href="mailto:guibus.dev@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" target="_blank"></a>
-</div>
 
+<div align="center">
+<a href="https://www.instagram.com/guibus_dev/" target="_blank">
+<img alt="Instagram" height="60" width="60"  src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/8ac0d3ecfdd7d999edba6b224e82f0aafd6d424c/Icons/Instagram.svg"> 
+</a>
+<a href="https://www.linkedin.com/in/gui-bus/" target="_blank">
+<img alt="LinkedIn" height="60" width="60"  src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Linkedin.svg"> 
+</a>
+<a href="mailto:guibus.dev@gmail.com" target="_blank">
+<img alt="Gmail" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Gmail.svg"> 
+</a>
+</div>
 
 <div align="center">
   
 <h1 align="center">Tecnologias :gear:</h1>
-<p align="center">Abaixo está uma lista das tecnologias que ja tive contato e constantemente utilizo em meus projetos.</p>
+<p align="center">Abaixo está uma lista das tecnologias e bibliotecas que ja tive contato e constantemente utilizo em meus projetos.</p>
 
-<div style="text-align: center;">
-  <img alt="Javascript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
-  <img alt="Typescript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg">
-  <img alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
-  <img alt="Vite" height="50" width="60" src="https://vitejs.dev/logo.svg">
-  <img alt="NextJS" height="50" width="50" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
-  <img alt="Next Auth" height="50" width="50" src="https://next-auth.js.org/img/logo/logo-sm.png">
-  <img alt="Prisma" height="50" width="50" src="https://www.svgrepo.com/show/373776/light-prisma.svg">
-  <img alt="Supabase" height="50" width="50" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png">
-  <img alt="Firebase" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg">
-  <img alt="NextUI" height="50" width="50" src="https://github.com/nextui-org/nextui/blob/main/apps/docs/public/isotipo.png?raw=true">
-  <img alt="Shad CN/UI" height="50" width="50" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4">
-  <img alt="Tailwind" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg">
-  <img alt="Sass" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg">
-  <img alt="Bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg">
-  <img alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
-  <img alt="Figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-  <img alt="Vercel" height="50" width="50" src="https://www.svgrepo.com/show/361653/vercel-logo.svg">
-  <img alt="GIT" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg">
+<div align="center">
+<img alt="Javascript" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Javascript.svg">
+<img alt="Typescript" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Typescript.svg">
+<img alt="React" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/React.svg"> 
+<img alt="Vite" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Vite.svg"> 
+<img alt="NextJS" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/NextJS.svg"> 
+<img alt="Prisma" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/PrismaORM.svg">
+<img alt="Postgresql" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Postgresql.svg">
+<img alt="Supabase" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Supabase.svg">
+<img alt="Firebase" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Firebase.svg">
+<img alt="NextUI" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/NextUI.svg"> 
+<img alt="ShadCN" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/ShadCNUI.svg"> 
+<img alt="Tailwind" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/TailwindCSS.svg">
+<img alt="Sass" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Sass.svg"> 
+<img alt="Bootstrap" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Bootstrap.svg">
+<img alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/CSS.svg">
+<img alt="Framer Motion" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Framer%20Motion.svg">
+<img alt="Figma" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Figma.svg">
+<img alt="Vercel" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Vercel.svg">
+<img alt="GIT" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/GIT.svg">
+<img alt="React Hook Form" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/8ac0d3ecfdd7d999edba6b224e82f0aafd6d424c/Icons/React%20Hook%20Form.svg">
+<img alt="Stripe" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/8ac0d3ecfdd7d999edba6b224e82f0aafd6d424c/Icons/Stripe.svg">
+<img alt="Next Auth" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/8ac0d3ecfdd7d999edba6b224e82f0aafd6d424c/Icons/Next%20Auth.svg">
+<img alt="TMDB" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/TMDB.svg">
 </div>
 
 <h1 align="center">Principais projetos :file_folder:</h1>
