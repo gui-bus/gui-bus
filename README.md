@@ -16,13 +16,13 @@
 
 <div align="center">
 <a href="https://www.instagram.com/guibus_dev/" target="_blank">
-<img alt="Instagram" height="60" width="60"  src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/8ac0d3ecfdd7d999edba6b224e82f0aafd6d424c/Icons/Instagram.svg"> 
+<img alt="Instagram" height="60" width="60"  src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/Instagram.svg"> 
 </a>
 <a href="https://www.linkedin.com/in/gui-bus/" target="_blank">
-<img alt="LinkedIn" height="60" width="60"  src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Linkedin.svg"> 
+<img alt="LinkedIn" height="60" width="60"  src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/Linkedin.svg"> 
 </a>
 <a href="mailto:guibus.dev@gmail.com" target="_blank">
-<img alt="Gmail" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Gmail.svg"> 
+<img alt="Gmail" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/Gmail.svg"> 
 </a>
 </div>
 
@@ -32,31 +32,32 @@
 <p align="center">Abaixo está uma lista das tecnologias e bibliotecas que ja tive contato e constantemente utilizo em meus projetos.</p>
 
 <div align="center">
-<img alt="Javascript" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Javascript.svg">
-<img alt="Typescript" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Typescript.svg">
-<img alt="React" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/React.svg"> 
-<img alt="Vite" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Vite.svg"> 
-<img alt="NextJS" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/NextJS.svg"> 
-<img alt="Prisma" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/PrismaORM.svg">
-<img alt="Postgresql" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Postgresql.svg">
-<img alt="Supabase" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Supabase.svg">
-<img alt="Firebase" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Firebase.svg">
-<img alt="NextUI" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/NextUI.svg"> 
-<img alt="ShadCN" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/ShadCNUI.svg"> 
-<img alt="Tailwind" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/TailwindCSS.svg">
-<img alt="Sass" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Sass.svg"> 
-<img alt="Bootstrap" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Bootstrap.svg">
-<img alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/CSS.svg">
-<img alt="Framer Motion" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Framer%20Motion.svg">
-<img alt="Figma" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Figma.svg">
-<img alt="Vercel" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/Vercel.svg">
-<img alt="GIT" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/GIT.svg">
-<img alt="React Hook Form" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/8ac0d3ecfdd7d999edba6b224e82f0aafd6d424c/Icons/React%20Hook%20Form.svg">
-<img alt="Stripe" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/8ac0d3ecfdd7d999edba6b224e82f0aafd6d424c/Icons/Stripe.svg">
-<img alt="Next Auth" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/8ac0d3ecfdd7d999edba6b224e82f0aafd6d424c/Icons/Next%20Auth.svg">
-<img alt="Swiper" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/8ac0d3ecfdd7d999edba6b224e82f0aafd6d424c/Icons/Swiper.svg">
-<img alt="TMDB" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/TMDB.svg">
+    <img alt="Javascript" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/Javascript.svg">
+    <img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/Typescript.svg">
+    <img alt="React" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/React.svg">
+    <img alt="Vite" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/Vite.svg">
+    <img alt="NextJS" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/NextJS.svg">
+    <img alt="Prisma" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/PrismaORM.svg">
+    <img alt="Postgresql" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/Postgresql.svg">
+    <img alt="Supabase" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/Supabase.svg">
+    <img alt="Firebase" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/Firebase.svg">
+    <img alt="NextUI" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/NextUI.svg">
+    <img alt="ShadCN" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/ShadCNUI.svg">
+    <img alt="Tailwind" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/TailwindCSS.svg">
+    <img alt="Sass" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/Sass.svg">
+    <img alt="Bootstrap" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/Bootstrap.svg">
+    <img alt="CSS" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/CSS.svg">
+    <img alt="Framer Motion" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/Framer%20Motion.svg">
+    <img alt="Figma" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/Figma.svg">
+    <img alt="Vercel" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/Vercel.svg">
+    <img alt="GIT" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/GIT.svg">
+    <img alt="React Hook Form" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/React%20Hook%20Form.svg">
+    <img alt="Stripe" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/Stripe.svg">
+    <img alt="Next Auth" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/Next%20Auth.svg">
+    <img alt="Swiper" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/Swiper.svg">
+    <img alt="TMDB" height="60" width="60" src="https://github.com/gui-bus/Tech-Icons/blob/main/Icons/TMDB.svg">
 </div>
+
 
 <h1 align="center">Principais projetos :file_folder:</h1>
 <br>
