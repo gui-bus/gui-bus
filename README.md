@@ -54,6 +54,7 @@
 <img alt="React Hook Form" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/8ac0d3ecfdd7d999edba6b224e82f0aafd6d424c/Icons/React%20Hook%20Form.svg">
 <img alt="Stripe" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/8ac0d3ecfdd7d999edba6b224e82f0aafd6d424c/Icons/Stripe.svg">
 <img alt="Next Auth" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/8ac0d3ecfdd7d999edba6b224e82f0aafd6d424c/Icons/Next%20Auth.svg">
+<img alt="Swiper" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/8ac0d3ecfdd7d999edba6b224e82f0aafd6d424c/Icons/Swiper.svg">
 <img alt="TMDB" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/Readme-Icons/894fb49c61b27e7cfb358b7b67834d33d4918318/Icons/TMDB.svg">
 </div>
 
