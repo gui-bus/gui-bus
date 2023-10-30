@@ -63,10 +63,23 @@
 <br>
 
 <div align="center">
+  <a href="https://github.com/gui-bus/Gamtech">
+    <img src="https://github.com/gui-bus/Gamtech/blob/main/public/gamtech.png" alt="Gamtech" width="300" />
+  </a>
+  
+***A Gamtech é um e-commerce de itens para computadores desenvolvido com React, Typescript, Next.js, NextUI, ShadCN/UI, Tailwind CSS, Prisma, Supabase, Stripe e Vercel.*** O projeto conta com uma gama de itens como teclados, mouses, headphones, placas de vídeo, placas mãe e processadores. Venha encontrar o próximo upgrade do seu setup na Gamtech!
+  
+  [Repositorio](https://github.com/gui-bus/Gamtech) - [Deploy](https://gamtech.vercel.app/)
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/gui-bus/Hotefy">
     <img src="https://github.com/gui-bus/Hotefy/blob/main/public/logo.png?raw=true" alt="Hotefy" width="300" />
   </a>
-  <p>O Hotefy é uma plataforma de reservas de viagens desenvolvido com React, Typescript, Next.js, NextUI, ShadCN/UI, Tailwind CSS, Prisma, Supabase e Vercel. <br> O projeto conta com opçoes de viagens para todos os gostos, venha encontrar o refúgio perfeito e realizar os seus sonhos! </p>
+  
+***O Hotefy é uma plataforma de reservas de viagens desenvolvido com React, Typescript, Next.js, NextUI, ShadCN/UI, Tailwind CSS, Prisma, Supabase e Vercel.*** O projeto conta com opçoes de viagens para todos os gostos, venha encontrar o refúgio perfeito e realizar os seus sonhos!
   
   [Repositorio](https://github.com/gui-bus/Hotefy) - [Deploy](https://hotefy.vercel.app/)
 </div>
@@ -77,7 +90,8 @@
   <a href="https://github.com/gui-bus/drivex">
     <img src="https://github.com/gui-bus/drivex/blob/main/src/assets/drivexLogo.png?raw=true" alt="DriveX" width="250" />
   </a>
-  <p>A DriveX é uma página web de compra e venda de veículos desenvolvido com Vite, React, TypeScript, Firebase e Tailwind CSS. <br> O projeto conta com um sistema de autenticação com Firebase para gerenciar o login e registro de usuários, bem como um banco de dados Firestore para armazenar informações sobre veículos e usuários. Além disso, o projeto oferece a possibilidade de entrar em contato com os vendedores via WhatsApp.</p>
+  
+***A DriveX é uma página web de compra e venda de veículos desenvolvido com Vite, React, TypeScript, Firebase e Tailwind CSS.*** O projeto conta com um sistema de autenticação com Firebase para gerenciar o login e registro de usuários, bem como um banco de dados Firestore para armazenar informações sobre veículos e usuários. Além disso, o projeto oferece a possibilidade de entrar em contato com os vendedores via WhatsApp.
   
   [Repositorio](https://github.com/gui-bus/drivex) - [Deploy](https://drivex-cars.vercel.app/)
 </div>
@@ -88,7 +102,8 @@
   <a href="https://github.com/gui-bus/Cinedex">
     <img src="https://github.com/gui-bus/Cinedex/blob/main/public/cinedex.png?raw=true" alt="Cinedex" width="300" />
   </a>
-  <p>A Cinedex é uma plataforma online de catálogo de filmes, desenvolvido com React, Typescript, Next.js, NextUI, Tailwind CSS e Vercel. <br> O projeto conta com uma ampla gama de opções de filmes separados por categorias e gêneros para explorar!</p>
+  
+***A Cinedex é uma plataforma online de catálogo de filmes, desenvolvido com React, Typescript, Next.js, NextUI, Tailwind CSS e Vercel.*** O projeto conta com uma ampla gama de opções de filmes separados por categorias e gêneros para explorar!
   
   [Repositorio](https://github.com/gui-bus/Cinedex) - [Deploy](https://cinedex.vercel.app/discover/now_playing)
 </div>
@@ -99,31 +114,10 @@
   <a href="https://github.com/gui-bus/Taskify">
     <img src="https://github.com/gui-bus/Taskify/blob/main/public/assets/logo.png" alt="Taskify" width="300" />
   </a>
-  <p>O Taskify é uma página web de lista de tarefas desenvolvida com React, TypeScript, NextJS, Firebase e Tailwind CSS. <br> Organize suas tarefas de forma eficiente!</p>
+
+  ***O Taskify é uma página web de lista de tarefas desenvolvida com React, TypeScript, NextJS, Firebase e Tailwind CSS.*** Organize suas tarefas de forma eficiente!
   
   [Repositorio](https://github.com/gui-bus/Taskify) - [Deploy](https://taskify-project.vercel.app/)
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/gui-bus/weatherTracker">
-    <img src="https://github.com/gui-bus/weatherTracker/blob/main/src/images/logoDesktop.png?raw=true" alt="Weather Tracker" width="300" />
-  </a>
-  <p>O Weather Tracker é uma pagina desenvolvida com HTML, CSS, JavaScript e Tailwind CSS <br> Fornece informações precisas e atualizadas sobre as condições meteorológicas em tempo real de qualquer lugar do mundo, permitindo que você esteja sempre bem informado sobre o clima atual da cidade desejada.</p>
-  
-  [Repositorio](https://github.com/gui-bus/Weather-Tracker) - [Deploy](https://gui-bus.github.io/Weather-Tracker/)
-</div>
-
-
-
-<div align="center">
-  <a href="https://github.com/gui-bus/jamesWebb">
-    <img src="https://github.com/gui-bus/jamesWebb/blob/main/images/webbLogo.png?raw=true" alt="James Webb" width="250" />
-  </a>
-  <p>Este projeto, desenvolvido com HTML, CSS, Bootstrap e Saas, consiste em uma página web que tem como objetivo fornecer diversos tipos de informações sobre o Telescópio Espacial James Webb, o sucessor do Telescópio Espacial Hubble.</p>
-  
-  [Repositorio](https://github.com/gui-bus/jamesWebb) - [Deploy](https://gui-bus.github.io/jamesWebb/)
 </div>
 
 <br>
@@ -132,9 +126,20 @@
   <a href="https://github.com/gui-bus/Delimix">
     <img src="https://github.com/gui-bus/Delimix/blob/main/src/img/DeliMix_Logo.png?raw=true" alt="DeliMix" width="150" />
   </a>
-  <p>O DeliMix é um cardápio online e delivery com pedidos via WhatsApp, desenvolvida com HTML, CSS, JavaScript e Tailwind CSS. <br> Criado para proporcionar a você uma experiência gastronômica incrível sem sair do conforto da sua casa.</p>
+
+***O DeliMix é um cardápio online e delivery com pedidos via WhatsApp, desenvolvida com HTML, CSS, JavaScript e Tailwind CSS.*** Criado para proporcionar a você uma experiência gastronômica incrível sem sair do conforto da sua casa.
   
   [Repositorio](https://github.com/gui-bus/Delimix) - [Deploy](https://gui-bus.github.io/Delimix/)
+</div>
+
+<div align="center">
+  <a href="https://github.com/gui-bus/TechIcons">
+    <img src="https://github.com/gui-bus/TechIcons/blob/main/techicons.png" alt="TechIcons" width="200" />
+  </a>
+
+***TechIcons é um repositório repleto de ícones que facilitam a criação de READMEs e documentos mais informativos e visualmente atraentes.*** Com mais de 200 ícones disponíveis, você pode adicionar um toque de estilo e clareza às suas mensagens. Sinta-se à vontade para explorar a lista de ícones e usá-los em seus projetos. 😄
+  
+  [Repositorio](https://github.com/gui-bus/TechIcons)
 </div>
 
 <br>
