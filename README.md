@@ -123,6 +123,19 @@
 <br>
 
 <div align="center">
+  <a href="https://github.com/gui-bus/Geoway">
+    <img src="https://github.com/gui-bus/Geoway/blob/main/public/logoWhite.png" alt="Geoway" width="300" />
+  </a>
+
+
+***A Geoway é uma Landing Page para um app fictício de rotas para trilhas e viagens desenvolvido com React, Typescript, Next.js, ShadCN/UI, Tailwind CSS e Vercel.*** O projeto conta com diversas informações sobre o aplicativo, como seu funcionamento e funcionalidades. 
+  
+  [Repositorio](https://github.com/gui-bus/Geoway) - [Deploy](https://geoway.vercel.app/)
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/gui-bus/Delimix">
     <img src="https://github.com/gui-bus/Delimix/blob/main/src/img/DeliMix_Logo.png?raw=true" alt="DeliMix" width="150" />
   </a>
