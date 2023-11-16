@@ -37,10 +37,13 @@
     <img alt="React" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg">
     <img alt="Vite" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Vite.svg">
     <img alt="NextJS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg">
+    <img alt="Node JS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg">
     <img alt="Prisma" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PrismaORM.svg">
     <img alt="Postgresql" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg">
     <img alt="Supabase" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Supabase.svg">
     <img alt="Firebase" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Firebase.svg">
+    <img alt="Axios" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Axios.svg">
+    <img alt="Express" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ExpressJS.svg">
     <img alt="NextUI" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextUI.svg">
     <img alt="ShadCN" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ShadCNUI.svg">
     <img alt="Tailwind" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg">
@@ -55,7 +58,8 @@
     <img alt="Stripe" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Stripe.svg">
     <img alt="Next Auth" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Next%20Auth.svg">
     <img alt="Swiper" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Swiper.svg">
-    <img alt="TMDB" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TMDB.svg">
+    <img alt="React Native" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React%20Native.svg">
+    <img alt="Expo" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Expo.svg">
 </div>
 
 
@@ -111,6 +115,18 @@
 <br>
 
 <div align="center">
+  <a href="https://github.com/gui-bus/oPedalCafe">
+    <img src="https://github.com/gui-bus/oPedalCafe/blob/main/public/logo.png?raw=true" alt="Pedal Café" width="300" />
+  </a>
+
+***O projeto do Pedal Café é um sistema Fullstack de administração de pedidos de uma cafeteria.*** O projeto conta com diversas funcionalidades para facilitar a administração e execução dos pedidos, proporcionando um gerenciamento de produtos e pedidos de uma forma poderosa e eficiente!
+  
+  [Repositorio](https://github.com/gui-bus/oPedalCafe)
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/gui-bus/Taskify">
     <img src="https://github.com/gui-bus/Taskify/blob/main/public/assets/logo.png" alt="Taskify" width="300" />
   </a>
@@ -134,16 +150,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <a href="https://github.com/gui-bus/Delimix">
-    <img src="https://github.com/gui-bus/Delimix/blob/main/src/img/DeliMix_Logo.png?raw=true" alt="DeliMix" width="150" />
-  </a>
-
-***O DeliMix é um cardápio online e delivery com pedidos via WhatsApp, desenvolvida com HTML, CSS, JavaScript e Tailwind CSS.*** Criado para proporcionar a você uma experiência gastronômica incrível sem sair do conforto da sua casa.
-  
-  [Repositorio](https://github.com/gui-bus/Delimix) - [Deploy](https://gui-bus.github.io/Delimix/)
-</div>
 
 <div align="center">
   <a href="https://github.com/gui-bus/TechIcons">
