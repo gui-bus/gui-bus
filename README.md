@@ -67,6 +67,20 @@
 <br>
 
 <div align="center">
+  <a href="https://github.com/gui-bus/portfolio">
+    <img src="https://github.com/gui-bus/portfolio/blob/main/github/Logo.png" alt=".Guibus" width="300" />
+  </a>
+
+  <br/>
+
+  ***Este projeto de trata de uma landing page desenvolvida com React, Typescript, Next.js, NextUI, ShadCN/UI, Tailwind CSS e Vercel***, para ser utilizada como meu portfólio, no qual falo sobre mim e mostro um pouco sobre os meus projetos e as tecnologias que possuo conhecimento.
+  
+  [Repositorio](https://github.com/gui-bus/portfolio) - [Deploy](https://guibus.vercel.app/)
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/gui-bus/Gamtech">
     <img src="https://github.com/gui-bus/Gamtech/blob/main/public/gamtech.png" alt="Gamtech" width="300" />
   </a>
@@ -122,18 +136,6 @@
 ***O projeto do Pedal Café é um sistema Fullstack de administração de pedidos de uma cafeteria.*** O projeto conta com diversas funcionalidades para facilitar a administração e execução dos pedidos, proporcionando um gerenciamento de produtos e pedidos de uma forma poderosa e eficiente!
   
   [Repositorio](https://github.com/gui-bus/oPedalCafe)
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/gui-bus/Taskify">
-    <img src="https://github.com/gui-bus/Taskify/blob/main/public/assets/logo.png" alt="Taskify" width="300" />
-  </a>
-
-  ***O Taskify é uma página web de lista de tarefas desenvolvida com React, TypeScript, NextJS, Firebase e Tailwind CSS.*** Organize suas tarefas de forma eficiente!
-  
-  [Repositorio](https://github.com/gui-bus/Taskify) - [Deploy](https://taskify-project.vercel.app/)
 </div>
 
 <br>
