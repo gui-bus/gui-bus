@@ -76,6 +76,8 @@
   ***Este projeto de trata de uma landing page desenvolvida com React, Typescript, Next.js, NextUI, ShadCN/UI, Tailwind CSS e Vercel***, para ser utilizada como meu portfólio, no qual falo sobre mim e mostro um pouco sobre os meus projetos e as tecnologias que possuo conhecimento.
   
   [Repositorio](https://github.com/gui-bus/portfolio) - [Deploy](https://guibus.vercel.app/)
+
+<img src="https://github.com/gui-bus/portfolio/blob/main/github/Desktop_01.png" alt="desktop" width="800" />
 </div>
 
 <br>
@@ -88,6 +90,8 @@
 ***A Gamtech é um e-commerce de itens para computadores desenvolvido com React, Typescript, Next.js, NextUI, ShadCN/UI, Tailwind CSS, Prisma, Supabase, Stripe e Vercel.*** O projeto conta com uma gama de itens como teclados, mouses, headphones, placas de vídeo, placas mãe e processadores. Venha encontrar o próximo upgrade do seu setup na Gamtech!
   
   [Repositorio](https://github.com/gui-bus/Gamtech) - [Deploy](https://gamtech.vercel.app/)
+
+  <img src="https://github.com/gui-bus/Gamtech/blob/main/Github/Desktop_Dark/desktop_home_dark_01.png" alt="desktop" width="800" />
 </div>
 
 <br>
@@ -100,18 +104,22 @@
 ***O Hotefy é uma plataforma de reservas de viagens desenvolvido com React, Typescript, Next.js, NextUI, ShadCN/UI, Tailwind CSS, Prisma, Supabase e Vercel.*** O projeto conta com opçoes de viagens para todos os gostos, venha encontrar o refúgio perfeito e realizar os seus sonhos!
   
   [Repositorio](https://github.com/gui-bus/Hotefy) - [Deploy](https://hotefy.vercel.app/)
+
+  <img src="https://github.com/gui-bus/Hotefy/raw/main/github/desktop/desktop_home_dark.png?raw=true" alt="desktop" width="800" />
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/gui-bus/drivex">
-    <img src="https://github.com/gui-bus/drivex/blob/main/src/assets/drivexLogo.png?raw=true" alt="DriveX" width="250" />
+    <img src="https://github.com/gui-bus/drivex/blob/main/src/assets/drivexLogo.png?raw=true" alt="DriveX" width="300" />
   </a>
   
 ***A DriveX é uma página web de compra e venda de veículos desenvolvido com Vite, React, TypeScript, Firebase e Tailwind CSS.*** O projeto conta com um sistema de autenticação com Firebase para gerenciar o login e registro de usuários, bem como um banco de dados Firestore para armazenar informações sobre veículos e usuários. Além disso, o projeto oferece a possibilidade de entrar em contato com os vendedores via WhatsApp.
   
   [Repositorio](https://github.com/gui-bus/drivex) - [Deploy](https://drivex-cars.vercel.app/)
+
+  <img src="https://github.com/gui-bus/drivex/raw/main/Github/DriveX/Images/MacbookAir-1.png?raw=true" alt="desktop" width="800" />
 </div>
 
 <br>
@@ -124,6 +132,8 @@
 ***A Cinedex é uma plataforma online de catálogo de filmes, desenvolvido com React, Typescript, Next.js, NextUI, Tailwind CSS e Vercel.*** O projeto conta com uma ampla gama de opções de filmes separados por categorias e gêneros para explorar!
   
   [Repositorio](https://github.com/gui-bus/Cinedex) - [Deploy](https://cinedex.vercel.app/discover/now_playing)
+
+  <img src="https://github.com/gui-bus/Cinedex/raw/main/github/desktop_home_light.png?raw=true" alt="desktop" width="800" />
 </div>
 
 <br>
@@ -136,6 +146,8 @@
 ***O projeto do Pedal Café é um sistema Fullstack de administração de pedidos de uma cafeteria.*** O projeto conta com diversas funcionalidades para facilitar a administração e execução dos pedidos, proporcionando um gerenciamento de produtos e pedidos de uma forma poderosa e eficiente!
   
   [Repositorio](https://github.com/gui-bus/oPedalCafe)
+
+  <img src="https://github.com/gui-bus/oPedalCafe/raw/main/github/desktop_login.png?raw=true" alt="desktop" width="800" />
 </div>
 
 <br>
@@ -149,13 +161,30 @@
 ***A Geoway é uma Landing Page para um app fictício de rotas para trilhas e viagens desenvolvido com React, Typescript, Next.js, ShadCN/UI, Tailwind CSS e Vercel.*** O projeto conta com diversas informações sobre o aplicativo, como seu funcionamento e funcionalidades. 
   
   [Repositorio](https://github.com/gui-bus/Geoway) - [Deploy](https://geoway.vercel.app/)
+
+  <img src="https://github.com/gui-bus/Geoway/raw/main/Github/desktop_7.png" alt="desktop" width="800" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/gui-bus/powervet">
+    <img src="https://github.com/gui-bus/powervet/blob/main/github/logo.png" alt="POWERVET" width="300" />
+  </a>
+
+
+***A POWERVET é uma Landing Page para uma clínica veterinária fictícia desenvolvido com React, Typescript, Next.js, Tailwind CSS, NextUI e Vercel.*** O projeto conta com diversas informações sobre a clínica como serviços oferecidos, planos de saúde e mais...
+  
+  [Repositorio](https://github.com/gui-bus/powervet) - [Deploy](https://powervet.vercel.app/)
+
+  <img src="https://github.com/gui-bus/powervet/raw/main/github/desktop_01.png" alt="desktop" width="800" />
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/gui-bus/TechIcons">
-    <img src="https://github.com/gui-bus/TechIcons/blob/main/techicons.png" alt="TechIcons" width="200" />
+    <img src="https://github.com/gui-bus/TechIcons/blob/main/techicons.png" alt="TechIcons" width="300" />
   </a>
 
 ***TechIcons é um repositório repleto de ícones que facilitam a criação de READMEs e documentos mais informativos e visualmente atraentes.*** Com mais de 200 ícones disponíveis, você pode adicionar um toque de estilo e clareza às suas mensagens. Sinta-se à vontade para explorar a lista de ícones e usá-los em seus projetos. 😄
