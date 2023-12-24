@@ -40,6 +40,7 @@
     <img alt="Node JS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg">
     <img alt="Prisma" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PrismaORM.svg">
     <img alt="Postgresql" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg">
+    <img alt="MongoDB" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MongoDB.svg">
     <img alt="Supabase" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Supabase.svg">
     <img alt="Firebase" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Firebase.svg">
     <img alt="Axios" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Axios.svg">
@@ -106,6 +107,20 @@
   [Repositorio](https://github.com/gui-bus/Hotefy) - [Deploy](https://hotefy.vercel.app/)
 
   <img src="https://github.com/gui-bus/Hotefy/raw/main/github/desktop/desktop_home_dark.png?raw=true" alt="desktop" width="800" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/gui-bus/ONDesk">
+    <img src="https://github.com/gui-bus/ONDesk/blob/main/public/logoWhite.png" alt="ONDesk" width="300" />
+  </a>
+  
+***A ONDesk é um sistema de gestão de clientes e chamados desenvolvido com React, Typescript, Next.js, NextUI, Tailwind CSS, Prisma, MongoDB e Vercel.*** Este projeto oferece uma solução abrangente para simplificar a gestão empresarial, permitindo que você organize, monitore e aprimore o relacionamento com seus clientes.
+  
+  [Repositorio](https://github.com/gui-bus/ONDesk) - [Deploy](https://ondesk.vercel.app/)
+
+  <img src="https://github.com/gui-bus/ONDesk/blob/main/github/desktop_01.png" alt="desktop" width="800" />
 </div>
 
 <br>
