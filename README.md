@@ -171,6 +171,20 @@
 <br>
 
 <div align="center">
+  <a href="https://github.com/gui-bus/AuthHero">
+    <img src="https://github.com/gui-bus/AuthHero/blob/main/public/logoLight.png?raw=true" alt="Auth Hero" width="300" />
+  </a>
+
+***O Auth Hero é um sistema completo de login com o uso de credenciais e provedores OAuth.*** Este projeto foi desenvolvido com o objetivo de explorar e aproveitar plenamente os recursos fornecidos pela biblioteca Auth.js.
+  
+  [Repositorio](https://github.com/gui-bus/AuthHero) - [Deploy](https://authhero.vercel.app/)
+
+  <img src="https://github.com/gui-bus/AuthHero/raw/main/github/desktop_01.png?raw=true" alt="desktop" width="800" />
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/gui-bus/Geoway">
     <img src="https://github.com/gui-bus/Geoway/blob/main/public/logoWhite.png" alt="Geoway" width="300" />
   </a>
