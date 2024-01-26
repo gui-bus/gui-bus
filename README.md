@@ -62,6 +62,7 @@
     <img alt="Stripe" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Stripe.svg">
     <img alt="Next Auth" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Next%20Auth.svg">
     <img alt="Swiper" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Swiper.svg">
+    <img alt="Sanity" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Sanity.svg">
     <img alt="React Native" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React%20Native.svg">
     <img alt="Expo" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Expo.svg">
 </div>
@@ -110,6 +111,20 @@
   [Repositorio](https://github.com/gui-bus/Hotefy) - [Deploy](https://hotefy.vercel.app/)
 
   <img src="https://github.com/gui-bus/Hotefy/raw/main/github/desktop/desktop_home_dark.png?raw=true" alt="desktop" width="800" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/gui-bus/Hotefy">
+    <img src="https://github.com/gui-bus/JamesWebbBlog/blob/main/public/logo.png?raw=true" alt="James Webb" width="300" />
+  </a>
+  
+***Este projeto de trata de um blog desenvolvido com React, Typescript, Next.js, NextUI, ShadCN/UI, Tailwind CSS, Sanity CMS e Vercel***  que tem como objetivo fornecer diversos tipos de informações sobre o Telescópio Espacial James Webb, o sucessor do Telescópio Espacial Hubble.
+  
+  [Repositorio](https://github.com/gui-bus/JamesWebbBlog) - [Deploy](https://jameswebb.vercel.app/)
+
+  <img src="https://github.com/gui-bus/JamesWebbBlog/raw/main/github/desktop_01.png?raw=true" alt="desktop" width="800" />
 </div>
 
 <br>
