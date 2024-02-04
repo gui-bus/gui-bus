@@ -89,6 +89,20 @@
 
 <div align="center">
   <a href="https://github.com/gui-bus/Gamtech">
+    <img src="https://github.com/gui-bus/QuickBarber/blob/main/public/logo.png?raw=true" alt="QUICK BARBER" width="300" />
+  </a>
+  
+***A QUICK BARBER é uma plataforma de reservas de serviços de barbearias desenvolvido com React, Typescript, Next.js, ShadCN/UI, Tailwind CSS, Prisma, Neon e Vercel.*** Descubra a praticidade da QUICK BARBER, a plataforma de agendamento online que simplifica todo o processo de reserva de horários.
+  
+  [Repositorio](https://github.com/gui-bus/QuickBarber) - [Deploy](https://quickbarber.vercel.app/)
+
+  <img src="https://github.com/gui-bus/QuickBarber/blob/main/Github/Desktop/Dark/desktop_01_dark.png?raw=true" alt="desktop" width="800" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/gui-bus/Gamtech">
     <img src="https://github.com/gui-bus/Gamtech/blob/main/public/gamtech.png" alt="Gamtech" width="300" />
   </a>
   
