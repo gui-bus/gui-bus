@@ -88,6 +88,22 @@
 <br>
 
 <div align="center">
+  <a href="https://github.com/gui-bus/DeliMix">
+    <img src="https://github.com/gui-bus/DeliMix/blob/main/public/Logo.png?raw=true" alt="DeliMix" width="300" />
+  </a>
+
+  <br/>
+
+  ***A DeliMix é uma landing page e cardápio digital feito com React, Typescript, Next.js, ShadCN/UI, Tailwind CSS, Prisma, PostgreSQL, Neon, Clerk e Vercel.*** Descubra a excelência da DeliMix, sua lanchonete gourmet favorita.
+  
+  [Repositorio](https://github.com/gui-bus/DeliMix) - [Deploy](https://delimix.vercel.app/)
+
+<img src="https://github.com/gui-bus/DeliMix/blob/main/github/desktop_01_dark.png?raw=true" alt="desktop" width="800" />
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/gui-bus/Gamtech">
     <img src="https://github.com/gui-bus/QuickBarber/blob/main/public/logo.png?raw=true" alt="QUICK BARBER" width="300" />
   </a>
