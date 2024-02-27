@@ -72,17 +72,18 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/gui-bus/portfolio">
-    <img src="https://github.com/gui-bus/portfolio/blob/main/github/Logo.png" alt=".Guibus" width="300" />
+  <a href="https://github.com/gui-bus/PortfolioIntl">
+    <img src="https://github.com/gui-bus/PortfolioIntl/blob/main/public/logo.svg" alt="Guibus" width="300" />
   </a>
 
   <br/>
 
-  ***Este projeto de trata de uma landing page desenvolvida com React, Typescript, Next.js, NextUI, ShadCN/UI, Tailwind CSS e Vercel***, para ser utilizada como meu portfólio, no qual falo sobre mim e mostro um pouco sobre os meus projetos e as tecnologias que possuo conhecimento.
-  
-  [Repositorio](https://github.com/gui-bus/portfolio) - [Deploy](https://guibus.vercel.app/)
+ ***Este projeto consiste em uma landing page desenvolvida com React, Typescript, Next.js, Next-intl, ShadCN/UI, Tailwind CSS e hospedada na plataforma Vercel.*** A finalidade é servir como meu portfólio, onde compartilho informações sobre mim, apresento alguns dos meus projetos e destaco as tecnologias nas quais possuo expertise. Explore o conteúdo para conhecer mais sobre minha jornada e as habilidades que desenvolvi ao longo do tempo.
 
-<img src="https://github.com/gui-bus/portfolio/blob/main/github/Desktop_01.png" alt="desktop" width="800" />
+  
+  [Repositorio](https://github.com/gui-bus/PortfolioIntl) - [Deploy](https://guibus.vercel.app/)
+
+<img src="https://github.com/gui-bus/PortfolioIntl/blob/main/github/desktop_01.png" alt="desktop" width="800" />
 </div>
 
 <br>
