@@ -105,6 +105,22 @@
 <br>
 
 <div align="center">
+  <a href="https://github.com/gui-bus/TheBreadKing">
+    <img src="https://github.com/gui-bus/TheBreadKing/blob/main/public/LogoText.svg" alt="The Bread King" width="300" />
+  </a>
+
+  <br/>
+
+  ***A The Bread King é uma landing page desenvolvida com React, Typescript, Next.js, ShadCN/UI, Tailwind CSS e Vercel.*** Explore a qualidade artesanal da The Bread King. Delicie-se com nossos produtos cuidadosamente preparados para proporcionar experiências únicas. Descubra o verdadeiro significado do sabor autêntico em cada pedaço.
+  
+  [Repositorio](https://github.com/gui-bus/TheBreadKing) - [Deploy](https://thebreadking.vercel.app/)
+
+<img src="https://github.com/gui-bus/TheBreadKing/blob/main/github/desktop_01.png" alt="desktop" width="800" />
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/gui-bus/Gamtech">
     <img src="https://github.com/gui-bus/QuickBarber/blob/main/public/logo.png?raw=true" alt="QUICK BARBER" width="300" />
   </a>
