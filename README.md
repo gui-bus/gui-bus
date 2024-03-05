@@ -121,6 +121,22 @@
 <br>
 
 <div align="center">
+  <a href="https://github.com/gui-bus/BuildMaster">
+    <img src="https://github.com/gui-bus/BuildMaster/blob/main/public/Logo.svg" alt="BuildMaster" width="300" />
+  </a>
+
+  <br/>
+
+  ***A BuildMaster é uma landing page desenvolvida com React, Typescript, Next.js, ShadCN/UI, Tailwind CSS e Vercel.*** Descubra como a BuildMaster pode impulsionar seus projetos e negócios. Seu parceiro confiável para inovação e excelência, gerando resultados extraordinários.
+  
+  [Repositorio](https://github.com/gui-bus/BuildMaster) - [Deploy](https://buildmaster.vercel.app/)
+
+<img src="https://github.com/gui-bus/BuildMaster/blob/main/github/desktop_01.png" alt="desktop" width="800" />
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/gui-bus/Gamtech">
     <img src="https://github.com/gui-bus/QuickBarber/blob/main/public/logo.png?raw=true" alt="QUICK BARBER" width="300" />
   </a>
