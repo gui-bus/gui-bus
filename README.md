@@ -2,17 +2,17 @@
   <p>
     Olá, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/gui-bus/">Guilherme Bustamante</a>
   </p>
-  <a>
-    Seja bem-vindo ao meu perfil! 😄
-  </a>
 </h1>
 
 <p align="center">
-  <strong>Sou um entusiasta de tecnologia e encontrei na programação minha paixão e caminho profissional.</strong> :dart: 
-  <br> <br>
-  Como desenvolvedor Front End, estou em constante busca por aprendizado e aprimoramento, adquirindo conhecimentos e habilidades necessárias para alcançar o meu objetivo de me tornar um <strong>desenvolvedor FullStack!</strong> :rocket: <br><br>
-  Neste perfil do GitHub, você encontrará uma variedade de projetos que demonstrem minhas habilidades e conhecimentos. :mag: <br> Fique à vontade para explorar os repositórios e se você tiver alguma pergunta, ideia de colaboração ou apenas quiser bater um papo sobre desenvolvimento web, sinta-se à vontade para entrar em contato. :speech_balloon: <br>
+  Sou um Desenvolvedor Frontend especializado em React, Next.js, TypeScript e Tailwind. Com experiência comprovada em projetos e determinado a crescer profissionalmente, busco agregar valor a cada projeto por meio de dedicação, aplicação das melhores práticas de responsividade e código limpo e compromisso constante com a excelência. 
 </p>
+  
+<div align="center"> 
+  
+***Para obter mais informações, confira meu portfólio clicando [aqui](https://guibus.vercel.app/).*** :dart: 
+
+</div>
 
 <div align="center">
 <a href="https://www.instagram.com/guibus_dev/" target="_blank">
@@ -132,6 +132,22 @@
   [Repositorio](https://github.com/gui-bus/BuildMaster) - [Deploy](https://buildmaster.vercel.app/)
 
 <img src="https://github.com/gui-bus/BuildMaster/blob/main/github/desktop_01.png" alt="desktop" width="800" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/gui-bus/STARKFIT">
+    <img src="https://github.com/gui-bus/STARKFIT/blob/main/public/Logo.svg" alt="STARKFIT" width="200" />
+  </a>
+
+  <br/>
+
+ ***A STARKFIT é uma landing page desenvolvida com React, Typescript, Next.js, ShadCN/UI, NextUI, Tailwind CSS e Vercel.*** Sua jornada para uma vida saudável começa na STARKFIT. Descubra treinos personalizados, equipamentos modernos e uma comunidade vibrante.
+  
+  [Repositorio](https://github.com/gui-bus/STARKFIT) - [Deploy](https://starkfit.vercel.app/)
+
+<img src="https://github.com/gui-bus/STARKFIT/blob/main/github/desktop_01.png" alt="desktop" width="800" />
 </div>
 
 <br>
