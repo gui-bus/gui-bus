@@ -47,7 +47,6 @@
     <img alt="Express" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ExpressJS.svg">
     <img alt="Jest" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Jest.svg">
     <img alt="Docker" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
-    <img alt="Kubernetes" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Kubernetes.svg">
     <img alt="NextUI" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextUI.svg">
     <img alt="ShadCN" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ShadCNUI.svg">
     <img alt="Tailwind" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg">
