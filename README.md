@@ -8,17 +8,16 @@
   Desenvolvedor Front-End especializado em React, Next.js, TypeScript e Tailwind CSS, com forte foco em UI/UX e construção de interfaces modernas, performáticas e escaláveis.  
   Atuo transformando requisitos de negócio em experiências digitais de alto nível, aplicando boas práticas de código limpo, design responsivo e atenção rigorosa aos detalhes que fazem diferença na experiência do usuário.
 </p>
+
+<br/>
   
 <div align="center"> 
   
-***Para obter mais informações, confira meu portfólio clicando [aqui](https://guibus.vercel.app/).*** :dart: 
+***Atualmente estou em busca de uma nova oportunidade como Desenvolvedor Front-End e aberto a novos desafios profissionais.*** :dart:
 
 </div>
 
 <div align="center">
-<a href="https://www.instagram.com/guibus_dev/" target="_blank">
-<img alt="Instagram" height="60" width="60"  src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Instagram.svg"> 
-</a>
 <a href="https://www.linkedin.com/in/gui-bus/" target="_blank">
 <img alt="LinkedIn" height="60" width="60"  src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg"> 
 </a>
