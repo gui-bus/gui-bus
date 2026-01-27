@@ -1,11 +1,12 @@
 <h1 align="center">
   <p>
-    Olá, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/gui-bus/">Guilherme Bustamante</a>
+    Olá, eu sou o <a href="https://www.linkedin.com/in/gui-bus/">Guilherme Bustamante</a> 👋
   </p>
 </h1>
 
 <p align="center">
-  Sou um Desenvolvedor Frontend especializado em React, Next.js, TypeScript e Tailwind. Com experiência comprovada em projetos e determinado a crescer profissionalmente, busco agregar valor a cada projeto por meio de dedicação, aplicação das melhores práticas de responsividade e código limpo e compromisso constante com a excelência. 
+  Desenvolvedor Front-End especializado em React, Next.js, TypeScript e Tailwind CSS, com forte foco em UI/UX e construção de interfaces modernas, performáticas e escaláveis.  
+  Atuo transformando requisitos de negócio em experiências digitais de alto nível, aplicando boas práticas de código limpo, design responsivo e atenção rigorosa aos detalhes que fazem diferença na experiência do usuário.
 </p>
   
 <div align="center"> 
@@ -29,7 +30,11 @@
 <div align="center">
   
 <h1 align="center">Tecnologias :gear:</h1>
-<p align="center">Abaixo está uma lista das tecnologias e bibliotecas que ja tive contato e constantemente utilizo em meus projetos.</p>
+<p align="center">
+Abaixo estão tecnologias e bibliotecas com as quais já trabalhei ao longo da minha trajetória, seja em uso frequente em projetos reais ou em estudos, experimentos e provas de conceito.  
+Algumas fazem parte do meu dia a dia, outras representam conhecimentos em desenvolvimento contínuo.
+</p>
+
 
 <div align="center">
     <img alt="Javascript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
@@ -64,6 +69,8 @@
     <img alt="Sanity" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Sanity.svg">
     <img alt="React Native" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React%20Native.svg">
     <img alt="Expo" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Expo.svg">
+    <img alt="React Query" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React%20Query.svg">
+    <img alt="Cypress" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Cypress.svg">
 </div>
 
 
