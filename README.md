@@ -27,51 +27,110 @@
 </a>
 </div>
 
-<div align="center">
-  
+<div>
+
 <h1 align="center">Tecnologias :gear:</h1>
-<p align="center">
-Abaixo estão tecnologias e bibliotecas com as quais já trabalhei ao longo da minha trajetória, seja em uso frequente em projetos reais ou em estudos, experimentos e provas de conceito.  
-Algumas fazem parte do meu dia a dia, outras representam conhecimentos em desenvolvimento contínuo.
+
+<p  align="center">
+ Abaixo estão tecnologias e bibliotecas com as quais já trabalhei ao longo da minha trajetória, algumas fazem parte do meu uso profissional frequente, enquanto outras representam conhecimentos adquiridos por meio de estudos e experiências pontuais, especialmente em áreas de backend. Portanto esta lista reflete tanto meu domínio atual em frontend quanto áreas em constante desenvolvimento ao longo da minha evolução técnica.
 </p>
 
 
-<div align="center">
-    <img alt="Javascript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
-    <img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
-    <img alt="React" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg">
-    <img alt="Vite" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Vite.svg">
-    <img alt="NextJS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg">
-    <img alt="Node JS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg">
-    <img alt="Prisma" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PrismaORM.svg">
-    <img alt="Postgresql" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg">
-    <img alt="MongoDB" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MongoDB.svg">
-    <img alt="Supabase" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Supabase.svg">
-    <img alt="Firebase" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Firebase.svg">
-    <img alt="Axios" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Axios.svg">
-    <img alt="Express" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ExpressJS.svg">
-    <img alt="Jest" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Jest.svg">
-    <img alt="Docker" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
-    <img alt="NextUI" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextUI.svg">
-    <img alt="ShadCN" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ShadCNUI.svg">
-    <img alt="Tailwind" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg">
-    <img alt="Sass" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Sass.svg">
-    <img alt="Bootstrap" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Bootstrap.svg">
-    <img alt="CSS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
-    <img alt="Framer Motion" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Framer%20Motion.svg">
-    <img alt="Figma" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Figma.svg">
-    <img alt="Vercel" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Vercel.svg">
-    <img alt="GIT" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg">
-    <img alt="React Hook Form" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React%20Hook%20Form.svg">
-    <img alt="Stripe" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Stripe.svg">
-    <img alt="Next Auth" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Next%20Auth.svg">
-    <img alt="Swiper" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Swiper.svg">
-    <img alt="Sanity" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Sanity.svg">
-    <img alt="React Native" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React%20Native.svg">
-    <img alt="Expo" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Expo.svg">
-    <img alt="React Query" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React%20Query.svg">
-    <img alt="Cypress" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Cypress.svg">
+<h3 align="center">Core</h3>
+<p align="center">
+  <img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
+  <img alt="React" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg">
+  <img alt="NextJS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg">
+</p>
+
+<h3 align="center">Styling & UI</h3>
+<p align="center">
+  <img alt="Tailwind" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg">
+  <img alt="HeroUI" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HeroUI.svg">
+  <img alt="ShadCN" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ShadCNUI.svg">
+  <img alt="Framer Motion" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Framer%20Motion.svg">
+  <img alt="Radix UI" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Radix.svg">
+  <img alt="Iconify" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Iconify.svg">
+  <img alt="Lucide" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Lucide.svg">
+  <img alt="Phosphor Icons" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Phosphor%20Icons.svg">
+  <img alt="Sass" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Sass.svg">
+  <img alt="Bootstrap" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Bootstrap.svg">
+  <img alt="Swiper" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Swiper.svg">
+</p>
+
+<h3 align="center">Estado, Forms & Dados</h3>
+<p align="center">
+  <img alt="React Hook Form" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React%20Hook%20Form.svg">
+  <img alt="React Query" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React%20Query.svg">
+  <img alt="Tanstack Query" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Tanstack.svg">
+  <img alt="Zustand" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Zustand.svg">
+  <img alt="Axios" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Axios.svg">
+  <img alt="Zod" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Zod.svg">
+</p>
+
+<h3 align="center">Backend, Auth & Infra</h3>
+<p align="center">
+  <img alt="Node JS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg">
+  <img alt="Express" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ExpressJS.svg">
+  <img alt="Nest JS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NestJS.svg">
+  <img alt="Prisma" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PrismaORM.svg">
+  <img alt="Postgresql" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg">
+  <img alt="MongoDB" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MongoDB.svg">
+  <img alt="Supabase" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Supabase.svg">
+  <img alt="Firebase" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Firebase.svg">
+  <img alt="Next Auth" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Next%20Auth.svg">
+  <img alt="Clerk" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Clerk.svg">
+  <img alt="Docker" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
+  <img alt="Vercel" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Vercel.svg">
+</p>
+
+<h3 align="center">Mobile</h3>
+<p align="center">
+  <img alt="React Native" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React%20Native.svg">
+  <img alt="Expo" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Expo.svg">
+</p>
+
+<h3 align="center">Testes & Qualidade</h3>
+<p align="center">
+  <img alt="Jest" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Jest.svg">
+  <img alt="Vitest" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Vitest.svg">
+  <img alt="Cypress" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Cypress.svg">
+  <img alt="Biome" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Biome.svg">
+  <img alt="Husky" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Husky.svg">
+  <img alt="Conventional Commits" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Conventional%20Commits.svg">
+  <img alt="Semantic Release" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Semantic%20Release.svg">
+</p>
+
+<h3 align="center">CMS, Gráficos & Conteúdo</h3>
+<p align="center">
+  <img alt="Sanity" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Sanity.svg">
+  <img alt="Tiptap" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Tiptap.svg">
+  <img alt="Highcharts" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Highcharts.svg">
+</p>
+
+<h3 align="center">Design & Produto</h3>
+<p align="center">
+  <img alt="Figma" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Figma.svg">
+  <img alt="Hotjar" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Hotjar.svg">
+  <img alt="Tally.so" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Tally.so.svg">
+  <img alt="Microsoft Clarity" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Clarity.svg">
+  <img alt="Google Analytics" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Analytics.svg">
+  <img alt="ClickUp" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ClickUP.svg">
+</p>
+
+<h3 align="center">Tooling & AI</h3>
+<p align="center">
+  <img alt="Vite" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Vite.svg">
+  <img alt="Git" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg">
+  <img alt="VS Code" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg">
+  <img alt="Cursor" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Cursor.svg">
+  <img alt="Gemini" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gemini.svg">
+  <img alt="Windsurf" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Windsurf.svg">
+  <img alt="Whisk" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Whisk.svg">
+</p>
+
 </div>
+
 
 
 <h1 align="center">Principais projetos :file_folder:</h1>
