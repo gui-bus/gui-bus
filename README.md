@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-  <h2>Stack Tecnológica :gear:</h2>
+  <h2>Stack & Skills</h2>
   <p>Tecnologias, bibliotecas e ferramentas que utilizo para construir produtos digitais de alta qualidade.</p>
 </div>
 
@@ -76,18 +76,18 @@
   <img alt="Windsurf" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Windsurf.svg">
 </p>
 
-# Projetos em Destaque
+<h2 align="center">Projetos em destaque</h2>
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/portfolio.png?raw=true" width="100%" alt="Thumbnail Portfólio">
       <h4>PORTFÓLIO PESSOAL</h4>
       <p>Demonstração interativa de capacidades em software e design, focado em performance e UX.</p>
       <p><b>Stack:</b> Next.js 16, Tailwind CSS v4, next-intl, shadcn/ui.</p>
       <a href="https://www.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/portfolio">GitHub</a>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/powerfit.png?raw=true" width="100%" alt="Thumbnail Powerfit">
       <h4>POWERFIT</h4>
       <p>Plataforma de gestão fitness com gamificação, dashboards e interface responsiva otimizada.</p>
@@ -96,14 +96,14 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/lume.png?raw=true" width="100%" alt="Thumbnail Lume">
       <h4>LUME</h4>
       <p>Plataforma de engenharia de carreira para criação de currículos otimizados para ATS.</p>
       <p><b>Stack:</b> React, Next.js, AI SDK, High-Performance UI.</p>
       <a href="https://lume.guibus.dev/pt">Deploy</a> | <a href="https://github.com/gui-bus/lume">GitHub</a>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/powervet.png?raw=true" width="100%" alt="Thumbnail PowerVet">
       <h4>POWERVET</h4>
       <p>Landing page para clínica veterinária de elite (Cat-Friendly) com foco em autoridade médica.</p>
@@ -112,14 +112,14 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/starkfit.png?raw=true" width="100%" alt="Thumbnail Starkfit">
       <h4>STARKFIT</h4>
       <p>LP premium para academia com estética Industrial & High-Tech e foco em resultados.</p>
       <p><b>Stack:</b> Next.js, Framer Motion, TypeScript.</p>
       <a href="https://starkfit.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/STARKFIT">GitHub</a>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/horizon.png?raw=true" width="100%" alt="Thumbnail Horizon">
       <h4>HORIZON</h4>
       <p>Landing page boutique para agência de viagens com estética Magazine Editorial.</p>
@@ -128,14 +128,14 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/voltage.png?raw=true" width="100%" alt="Thumbnail Voltage">
       <h4>VOLTAGE</h4>
       <p>Experiência cinematográfica para festival de música eletrônica com foco sensorial.</p>
       <p><b>Stack:</b> Next.js, Advanced UX, Industrial Design.</p>
       <a href="https://voltage.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/Voltage">GitHub</a>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/haven.png?raw=true" width="100%" alt="Thumbnail Haven">
       <h4>HAVEN</h4>
       <p>Landing page para barbearia clássica com narrativa visual imersiva e luxuosa.</p>
@@ -144,7 +144,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
        <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/onyx.png?raw=true" width="100%" alt="Thumbnail Onyx">
       <h4>ONYX</h4>
       <p>Boutique jurídica internacional com estética Dark & Gold e foco em autoridade.</p>
