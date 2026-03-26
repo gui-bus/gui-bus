@@ -86,6 +86,7 @@
       <p>Demonstração interativa de capacidades em software e design, focado em performance e UX.</p>
       <p><b>Stack:</b> Next.js 16, Tailwind CSS v4, next-intl, shadcn/ui.</p>
       <a href="https://www.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/portfolio">GitHub</a>
+      <br><br>
     </td>
     <td width="50%" valign="top" align="center">
       <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/powerfit.png?raw=true" width="100%" alt="Thumbnail Powerfit">
@@ -93,6 +94,7 @@
       <p>Plataforma de gestão fitness com gamificação, dashboards e interface responsiva otimizada.</p>
       <p><b>Stack:</b> Next.js 16, React 19, TypeScript, Radix UI.</p>
       <a href="https://powerfit.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/POWERFIT-Frontend">GitHub</a>
+      <br><br>
     </td>
   </tr>
   <tr>
@@ -102,6 +104,7 @@
       <p>Plataforma de engenharia de carreira para criação de currículos otimizados para ATS.</p>
       <p><b>Stack:</b> React, Next.js, AI SDK, High-Performance UI.</p>
       <a href="https://lume.guibus.dev/pt">Deploy</a> | <a href="https://github.com/gui-bus/lume">GitHub</a>
+      <br><br>
     </td>
     <td width="50%" valign="top" align="center">
       <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/powervet.png?raw=true" width="100%" alt="Thumbnail PowerVet">
@@ -109,6 +112,7 @@
       <p>Landing page para clínica veterinária de elite (Cat-Friendly) com foco em autoridade médica.</p>
       <p><b>Stack:</b> Next.js, Tailwind CSS, High-end Design.</p>
       <a href="https://powervet.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/POWERVET">GitHub</a>
+      <br><br>
     </td>
   </tr>
   <tr>
@@ -118,6 +122,7 @@
       <p>LP premium para academia com estética Industrial & High-Tech e foco em resultados.</p>
       <p><b>Stack:</b> Next.js, Framer Motion, TypeScript.</p>
       <a href="https://starkfit.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/STARKFIT">GitHub</a>
+      <br><br>
     </td>
     <td width="50%" valign="top" align="center">
       <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/horizon.png?raw=true" width="100%" alt="Thumbnail Horizon">
@@ -125,6 +130,7 @@
       <p>Landing page boutique para agência de viagens com estética Magazine Editorial.</p>
       <p><b>Stack:</b> React, Next.js, Tipografia Luxury.</p>
       <a href="https://horizon.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/Horizon">GitHub</a>
+      <br><br>
     </td>
   </tr>
   <tr>
@@ -134,6 +140,7 @@
       <p>Experiência cinematográfica para festival de música eletrônica com foco sensorial.</p>
       <p><b>Stack:</b> Next.js, Advanced UX, Industrial Design.</p>
       <a href="https://voltage.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/Voltage">GitHub</a>
+      <br><br>
     </td>
     <td width="50%" valign="top" align="center">
       <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/haven.png?raw=true" width="100%" alt="Thumbnail Haven">
@@ -141,6 +148,7 @@
       <p>Landing page para barbearia clássica com narrativa visual imersiva e luxuosa.</p>
       <p><b>Stack:</b> Next.js, UI/UX Design, Magazine Style.</p>
       <a href="https://haven.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/Haven">GitHub</a>
+      <br><br>
     </td>
   </tr>
   <tr>
@@ -150,8 +158,9 @@
       <p>Boutique jurídica internacional com estética Dark & Gold e foco em autoridade.</p>
       <p><b>Stack:</b> Next.js, Strategic UX, Ultra-luxo UI.</p>
       <a href="https://onyx.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/Onyx">GitHub</a>
+      <br><br>
     </td>
     <td width="50%" valign="top">
-      </td>
+    </td>
   </tr>
 </table>
