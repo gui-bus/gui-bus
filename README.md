@@ -97,7 +97,16 @@
       <br><br>
     </td>
   </tr>
+
   <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/thais.png?raw=true" width="100%" alt="Thumbnail Thaís Crisley">
+      <h4>THAÍS CRISLEY - APAREÇA E VENDA</h4>
+      <p>Landing Page de alta performance para o projeto "Apareça e Venda". Focada em autoridade e conversão.</p>
+      <p><b>Stack:</b> React, Next.js 16, Tailwind CSS v4, Framer Motion.</p>
+      <a href="http://thaiscrisley.com.br/">Deploy</a> | <a href="https://github.com/gui-bus/ThaisCrisley">GitHub</a>
+      <br><br>
+    </td>
     <td width="50%" valign="top" align="center">
       <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/lume.png?raw=true" width="100%" alt="Thumbnail Lume">
       <h4>LUME</h4>
@@ -106,6 +115,9 @@
       <a href="https://lume.guibus.dev/pt">Deploy</a> | <a href="https://github.com/gui-bus/lume">GitHub</a>
       <br><br>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top" align="center">
       <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/powervet.png?raw=true" width="100%" alt="Thumbnail PowerVet">
       <h4>POWERVET</h4>
@@ -114,8 +126,6 @@
       <a href="https://powervet.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/POWERVET">GitHub</a>
       <br><br>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top" align="center">
       <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/starkfit.png?raw=true" width="100%" alt="Thumbnail Starkfit">
       <h4>STARKFIT</h4>
@@ -124,6 +134,9 @@
       <a href="https://starkfit.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/STARKFIT">GitHub</a>
       <br><br>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top" align="center">
       <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/horizon.png?raw=true" width="100%" alt="Thumbnail Horizon">
       <h4>HORIZON</h4>
@@ -132,8 +145,6 @@
       <a href="https://horizon.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/Horizon">GitHub</a>
       <br><br>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top" align="center">
       <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/voltage.png?raw=true" width="100%" alt="Thumbnail Voltage">
       <h4>VOLTAGE</h4>
@@ -142,6 +153,9 @@
       <a href="https://voltage.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/Voltage">GitHub</a>
       <br><br>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top" align="center">
       <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/haven.png?raw=true" width="100%" alt="Thumbnail Haven">
       <h4>HAVEN</h4>
@@ -150,8 +164,6 @@
       <a href="https://haven.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/Haven">GitHub</a>
       <br><br>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top" align="center">
        <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/onyx.png?raw=true" width="100%" alt="Thumbnail Onyx">
       <h4>ONYX</h4>
@@ -159,8 +171,6 @@
       <p><b>Stack:</b> Next.js, Strategic UX, Ultra-luxo UI.</p>
       <a href="https://onyx.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/Onyx">GitHub</a>
       <br><br>
-    </td>
-    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
