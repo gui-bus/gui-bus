@@ -76,7 +76,30 @@
   <img alt="Windsurf" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Windsurf.svg">
 </p>
 
-<h2 align="center">Projetos em destaque</h2>
+<div align="center">
+  <h2>🌟 Projeto em Destaque</h2>
+</div>
+
+<div align="center">
+  <a href="https://magui.studio" target="_blank">
+    <img src="https://github.com/gui-bus/magui.studio/blob/master/public/images/og-image.webp?raw=true" width="100%" alt="Thumbnail MAGUI.studio">
+  </a>
+  <h3>MAGUI.studio</h3>
+  <p><b>Estúdio de Estratégia Visual & Engenharia de Interface</b></p>
+  <p>
+    Meu projeto mais ambicioso até o momento. Um ecossistema digital de elite desenvolvido para transformar presenças de marca através de um equilíbrio rigoroso entre estética Luxury Editorial e engenharia de software de ponta.
+  </p>
+  <p>
+    <b>Stack:</b> Next.js 16 (App Router), React 19, Tailwind CSS v4, Framer Motion, next-intl, Vitest, Playwright.
+  </p>
+  <p>
+    <a href="https://magui.studio" target="_blank">Deploy Oficial</a>
+  </p>
+</div>
+
+<br/>
+
+<h2 align="center">Outros projetos em destaque</h2>
 
 <table width="100%">
   <tr>
