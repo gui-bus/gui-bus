@@ -3,7 +3,13 @@
   <p><b>Especialista em Desenvolvimento Front-End | React & Next.js</b></p>
 
   <p>
-    Responsável por traduzir necessidades estratégicas em soluções técnicas sólidas, garantindo consistência visual e fluidez de navegação. Minha abordagem é orientada a resultados, unindo design responsivo e arquitetura moderna para entregar interfaces de alta performance.
+    Sou Desenvolvedor Frontend focado no ecossistema React e Next.js, trabalhando no dia a dia com TypeScript e Tailwind CSS.
+
+​O que me diferencia é conseguir transitar muito bem entre o design e o código: tenho uma bagagem forte de UI/UX, domino o Figma e uso ferramentas de Inteligência Artificial na minha rotina para acelerar o desenvolvimento e aumentar minha produtividade. O resultado disso são interfaces fiéis ao design, limpas e que funcionam bem na prática.
+
+​No código, priorizo boas práticas, arquitetura sólida e testes, sempre pensando na performance e na manutenção do projeto a longo prazo.
+
+​No momento, estou disponível para novas propostas e desafios profissionais. Caso tenha uma oportunidade alinhada ao meu perfil, pode entrar em contato direto por aqui ou pelos canais abaixo:
   </p>
 
   <div>
@@ -17,10 +23,6 @@
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=icloud&logoColor=white" alt="Email">
 </a>
   </div>
-
-  <br/>
-
-  ***Atualmente em busca de novos desafios como Desenvolvedor Front-End.*** :dart:
 </div>
 
 <div align="center">
@@ -77,77 +79,79 @@
 </p>
 
 <div align="center">
-  <h2>🌟 Projeto em Destaque</h2>
+  <h2>Projeto em Destaque</h2>
 </div>
 
 <div align="center">
   <a href="https://magui.studio" target="_blank">
-    <img src="https://github.com/gui-bus/magui.studio/blob/master/public/images/og-image.webp?raw=true" width="100%" alt="Thumbnail MAGUI.studio">
+    <img src="https://github.com/MAGUI-studio/MAGUI.studio/blob/master/public/images/magui.png" width="100%" alt="Thumbnail MAGUI.studio">
   </a>
   <h3>MAGUI.studio</h3>
   <p><b>Estúdio de Estratégia Visual & Engenharia de Interface</b></p>
   <p>
-    Meu projeto mais ambicioso até o momento. Um ecossistema digital de elite desenvolvido para transformar presenças de marca através de um equilíbrio rigoroso entre estética Luxury Editorial e engenharia de software de ponta.
+    A MAGUI.studio é meu estudio de desenvolvimento digital de elite desenvolvido para transformar presenças de marca através de um equilíbrio rigoroso entre estética minimalista e engenharia de software de ponta.
   </p>
   <p>
     <b>Stack:</b> Next.js 16 (App Router), React 19, Tailwind CSS v4, Framer Motion, next-intl, Vitest, Playwright.
   </p>
   <p>
-    <a href="https://magui.studio" target="_blank">Deploy Oficial</a>
+    <a href="https://magui.studio" target="_blank">Deploy</a>
   </p>
 </div>
 
 <br/>
 
-<h2 align="center">Outros projetos em destaque</h2>
+<h2 align="center">Sistemas</h2>
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top" align="center">
-      <h4>PORTFÓLIO PESSOAL</h4>
-      <p>Demonstração interativa de capacidades em software e design, focado em performance e UX.</p>
-      <p><b>Stack:</b> Next.js 16, Tailwind CSS v4, next-intl, shadcn/ui.</p>
-      <a href="https://www.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/portfolio">GitHub</a>
-      <br><br>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h4>POWERFIT</h4>
-      <p>Plataforma de gestão fitness com gamificação, dashboards e interface responsiva otimizada.</p>
-      <p><b>Stack:</b> Next.js 16, React 19, TypeScript, Radix UI.</p>
-      <a href="https://powerfit.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/POWERFIT-Frontend">GitHub</a>
-      <br><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h4>THAÍS CRISLEY - APAREÇA E VENDA</h4>
-      <p>Landing Page de alta performance para o projeto "Apareça e Venda". Focada em autoridade e conversão.</p>
-      <p><b>Stack:</b> React, Next.js 16, Tailwind CSS v4, Framer Motion.</p>
-      <a href="http://thaiscrisley.com.br/">Deploy</a> | <a href="https://github.com/gui-bus/ThaisCrisley">GitHub</a>
+     <td width="50%" valign="top" align="center">
+      <h4>CRM MAGUI.studio</h4>
+      <p>Plataforma própria do meu estúdio para gerenciamento de clientes e projetos.</p>
+      <a href="https://dashboard.magui.studio/sign-in">Deploy</a>
       <br><br>
     </td>
     <td width="50%" valign="top" align="center">
       <h4>LUME</h4>
       <p>Plataforma de engenharia de carreira para criação de currículos otimizados para ATS.</p>
-      <p><b>Stack:</b> React, Next.js, AI SDK, High-Performance UI.</p>
       <a href="https://lume.guibus.dev/pt">Deploy</a> | <a href="https://github.com/gui-bus/lume">GitHub</a>
       <br><br>
     </td>
   </tr>
 
+   <tr>
+     <td width="50%" valign="top" align="center">
+      <h4>POWERFIT Frontend</h4>
+      <p>A experiência visual do POWERFIT. Interface fluida e responsiva com dashboard de treinos, gamificação e interações sociais. Desenvolvida com Next.js 15, React 19 e Tailwind CSS v4.</p>
+      <p><b>Stack:</b> Next.js, React, TypeScript, Tailwind CSS, Orval e Vitest.</p>
+      <a href="https://powerfit.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/POWERFIT-Frontend">GitHub</a>
+      <br><br>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h4>POWERFIT API</h4>
+      <p>O cérebro por trás do POWERFIT. API robusta com IA nativa para treinos, sistema de conquistas e feed social. Desenvolvida com Node.js 24, Fastify 5 e Prisma 7.</p>
+      <p><b>Stack:</b> Node.js, Fastify, PostgreSQL, Prisma ORM, AI SDK e Vitest.</p>
+      <a href="https://powerfit-api.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/POWERFIT-API">GitHub</a>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">Landing Pages da MAGUI.studio</h2>
+
+<table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
       <img src="https://portfolio.magui.studio/images/nacho-libre/project-cover.webp" width="100%" alt="Nacho Libre">
       <h4>NACHO LIBRE</h4>
       <p>Restaurante mexicano moderno com cardápio, pedidos e experiência digital vibrante.</p>
-      <a href="#">Deploy</a> | <a href="#">GitHub</a>
+      <a href="https://portfolio.magui.studio/projetos/nacho-libre">Deploy</a>
     </td>
     <td width="50%" valign="top" align="center">
       <img src="https://portfolio.magui.studio/images/vitta/project-cover.webp" width="100%" alt="VITTA">
       <h4>VITTA</h4>
       <p>Clínica de estética focada em saúde da pele, protocolos personalizados e autoridade.</p>
-      <a href="https://portfolio.magui.studio/">Deploy</a>
+      <a href="https://portfolio.magui.studio/projetos/vitta">Deploy</a>
     </td>
   </tr>
   <tr>
@@ -155,13 +159,13 @@
       <img src="https://portfolio.magui.studio/images/pulse/project-cover.webp" width="100%" alt="Pulse">
       <h4>PULSE</h4>
       <p>Marca fitness premium com tecnologia, performance e visual editorial.</p>
-      <a href="https://portfolio.magui.studio/">Deploy</a>
+      <a href="https://portfolio.magui.studio/projetos/pulse">Deploy</a>
     </td>
     <td width="50%" valign="top" align="center">
       <img src="https://portfolio.magui.studio/images/kroma/project-cover.webp" width="100%" alt="Kroma">
       <h4>KROMA</h4>
       <p>Soluções completas de energia solar para residências, empresas e indústrias.</p>
-      <a href="https://portfolio.magui.studio/">Deploy</a>
+      <a href="https://portfolio.magui.studio/projetos/kroma">Deploy</a>
     </td>
   </tr>
   <tr>
@@ -169,13 +173,13 @@
       <img src="https://portfolio.magui.studio/images/lacreme/project-cover.webp" width="100%" alt="La Crème">
       <h4>LA CRÈME</h4>
       <p>Confeitaria artesanal com foco em vitrine sazonal e encomendas.</p>
-      <a href="https://portfolio.magui.studio/">Deploy</a>
+      <a href="https://portfolio.magui.studio/projetos/la-creme">Deploy</a>
     </td>
     <td width="50%" valign="top" align="center">
       <img src="https://portfolio.magui.studio/images/shinobi/project-cover.webp" width="100%" alt="SHINOBI">
       <h4>SHINOBI</h4>
       <p>Energético dark com hero interativa e narrativa de marca autoral.</p>
-     <a href="https://portfolio.magui.studio/">Deploy</a>
+     <a href="https://portfolio.magui.studio/projetos/shinobi">Deploy</a>
     </td>
   </tr>
   <tr>
@@ -183,13 +187,13 @@
       <img src="https://portfolio.magui.studio/images/bites/project-cover.webp" width="100%" alt="BITES">
       <h4>BITES</h4>
       <p>Comfort food premium com proposta moderna, crocante e delivery-first.</p>
-      <a href="https://portfolio.magui.studio/">Deploy</a>
+      <a href="https://portfolio.magui.studio/projetos/bites">Deploy</a>
     </td>
     <td width="50%" valign="top" align="center">
       <img src="https://portfolio.magui.studio/images/sayeg/project-cover.webp" width="100%" alt="Beatriz Sayeg">
       <h4>BEATRIZ SAYEG</h4>
       <p>Visagismo avançado e micropigmentação com posicionamento de luxo.</p>
-      <a href="https://portfolio.magui.studio/">Deploy</a>
+      <a href="https://portfolio.magui.studio/projetos/sayeg-beauty-studio">Deploy</a>
     </td>
   </tr>
   <tr>
@@ -197,13 +201,13 @@
       <img src="https://portfolio.magui.studio/images/powervet/project-cover.webp" width="100%" alt="POWERVET">
       <h4>POWERVET</h4>
       <p>Clínica veterinária premium especializada em animais silvestres e exóticos.</p>
-      <a href="https://portfolio.magui.studio/">Deploy</a>
+      <a href="https://portfolio.magui.studio/projetos/powervet">Deploy</a>
     </td>
     <td width="50%" valign="top" align="center">
       <img src="https://portfolio.magui.studio/images/flow/project-cover.webp" width="100%" alt="FLOW">
       <h4>FLOW</h4>
       <p>Aquarismo marinho premium com equipamentos e consultoria especializada.</p>
-      <a href="https://portfolio.magui.studio/">Deploy</a>
+      <a href="https://portfolio.magui.studio/projetos/flow">Deploy</a>
     </td>
   </tr>
   <tr>
@@ -211,13 +215,13 @@
       <img src="https://portfolio.magui.studio/images/arco/project-cover.webp" width="100%" alt="ARCO">
       <h4>ARCO</h4>
       <p>Clínica odontológica com diagnóstico digital e atendimento humanizado.</p>
-      <a href="https://portfolio.magui.studio/">Deploy</a>
+      <a href="https://portfolio.magui.studio/projetos/arco-odontologia">Deploy</a>
     </td>
     <td width="50%" valign="top" align="center">
       <img src="https://portfolio.magui.studio/images/dragon-tattoo/project-cover.webp" width="100%" alt="Dragon Tattoo">
       <h4>DRAGON TATTOO</h4>
       <p>Estúdio premium especializado em tatuagens orientais e japonesas autorais.</p>
-      <a href="https://portfolio.magui.studio/">Deploy</a>
+      <a href="https://portfolio.magui.studio/projetos/dragon-tattoo">Deploy</a>
     </td>
   </tr>
   <tr>
@@ -225,13 +229,13 @@
       <img src="https://portfolio.magui.studio/images/haven/project-cover.webp" width="100%" alt="HAVEN">
       <h4>HAVEN</h4>
       <p>Espaço inclusivo de beleza focado em neurodivergentes e acolhimento.</p>
-      <a href="https://portfolio.magui.studio/">Deploy</a>
+      <a href="https://portfolio.magui.studio/projetos/haven">Deploy</a>
     </td>
     <td width="50%" valign="top" align="center">
       <img src="https://portfolio.magui.studio/images/step/project-cover.webp" width="100%" alt="STEP">
       <h4>STEP</h4>
       <p>Estúdio técnico de sneaker care para restauração e conservação premium.</p>
-      <a href="https://portfolio.magui.studio/">Deploy</a>
+      <a href="https://portfolio.magui.studio/projetos/step">Deploy</a>
     </td>
   </tr>
   <tr>
@@ -239,13 +243,13 @@
       <img src="https://portfolio.magui.studio/images/flora/project-cover.webp" width="100%" alt="Flora">
       <h4>FLORA</h4>
       <p>Garden center premium com plantas ornamentais e decoração natural.</p>
-      <a href="https://portfolio.magui.studio/">Deploy</a>
+      <a href="https://portfolio.magui.studio/projetos/flora">Deploy</a>
     </td>
     <td width="50%" valign="top" align="center">
       <img src="https://portfolio.magui.studio/images/cazetv/project-cover.webp" width="100%" alt="CazéTV">
       <h4>CAZÉTV</h4>
       <p>Canal de transmissão esportiva e entretenimento digital de alta escala.</p>
-      <a href="https://portfolio.magui.studio/">Deploy</a>
+      <a href="https://portfolio.magui.studio/projetos/cazetv">Deploy</a>
     </td>
   </tr>
 </table>
