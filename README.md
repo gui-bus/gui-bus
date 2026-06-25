@@ -142,6 +142,62 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
+      <img src="https://portfolio.magui.studio/images/cazetv/project-cover.webp" width="100%" alt="CazéTV">
+      <h4>CAZÉTV</h4>
+      <p>Canal de transmissão esportiva e entretenimento digital de alta escala.</p>
+      <a href="https://portfolio.magui.studio/projetos/cazetv">Deploy</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://portfolio.magui.studio/images/powervet/project-cover.webp" width="100%" alt="POWERVET">
+      <h4>POWERVET</h4>
+      <p>Clínica veterinária premium especializada em animais silvestres e exóticos.</p>
+      <a href="https://portfolio.magui.studio/projetos/powervet">Deploy</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://portfolio.magui.studio/images/arco/project-cover.webp" width="100%" alt="ARCO">
+      <h4>ARCO</h4>
+      <p>Clínica odontológica com diagnóstico digital e atendimento humanizado.</p>
+      <a href="https://portfolio.magui.studio/projetos/arco-odontologia">Deploy</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://portfolio.magui.studio/images/flow/project-cover.webp" width="100%" alt="FLOW">
+      <h4>FLOW</h4>
+      <p>Aquarismo marinho premium com equipamentos e consultoria especializada.</p>
+      <a href="https://portfolio.magui.studio/projetos/flow">Deploy</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://portfolio.magui.studio/images/bites/project-cover.webp" width="100%" alt="BITES">
+      <h4>BITES</h4>
+      <p>Comfort food premium com proposta moderna, crocante e delivery-first.</p>
+      <a href="https://portfolio.magui.studio/projetos/bites">Deploy</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://portfolio.magui.studio/images/lacreme/project-cover.webp" width="100%" alt="La Crème">
+      <h4>LA CRÈME</h4>
+      <p>Confeitaria artesanal com foco em vitrine sazonal e encomendas.</p>
+      <a href="https://portfolio.magui.studio/projetos/la-creme">Deploy</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://portfolio.magui.studio/images/step/project-cover.webp" width="100%" alt="STEP">
+      <h4>STEP</h4>
+      <p>Estúdio técnico de sneaker care para restauração e conservação premium.</p>
+      <a href="https://portfolio.magui.studio/projetos/step">Deploy</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://portfolio.magui.studio/images/haven/project-cover.webp" width="100%" alt="HAVEN">
+      <h4>HAVEN</h4>
+      <p>Espaço inclusivo de beleza focado em neurodivergentes e acolhimento.</p>
+      <a href="https://portfolio.magui.studio/projetos/haven">Deploy</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
       <img src="https://portfolio.magui.studio/images/nacho-libre/project-cover.webp" width="100%" alt="Nacho Libre">
       <h4>NACHO LIBRE</h4>
       <p>Restaurante mexicano moderno com cardápio, pedidos e experiência digital vibrante.</p>
@@ -170,24 +226,10 @@
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/lacreme/project-cover.webp" width="100%" alt="La Crème">
-      <h4>LA CRÈME</h4>
-      <p>Confeitaria artesanal com foco em vitrine sazonal e encomendas.</p>
-      <a href="https://portfolio.magui.studio/projetos/la-creme">Deploy</a>
-    </td>
-    <td width="50%" valign="top" align="center">
       <img src="https://portfolio.magui.studio/images/shinobi/project-cover.webp" width="100%" alt="SHINOBI">
       <h4>SHINOBI</h4>
       <p>Energético dark com hero interativa e narrativa de marca autoral.</p>
-     <a href="https://portfolio.magui.studio/projetos/shinobi">Deploy</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/bites/project-cover.webp" width="100%" alt="BITES">
-      <h4>BITES</h4>
-      <p>Comfort food premium com proposta moderna, crocante e delivery-first.</p>
-      <a href="https://portfolio.magui.studio/projetos/bites">Deploy</a>
+      <a href="https://portfolio.magui.studio/projetos/shinobi">Deploy</a>
     </td>
     <td width="50%" valign="top" align="center">
       <img src="https://portfolio.magui.studio/images/sayeg/project-cover.webp" width="100%" alt="Beatriz Sayeg">
@@ -198,58 +240,16 @@
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/powervet/project-cover.webp" width="100%" alt="POWERVET">
-      <h4>POWERVET</h4>
-      <p>Clínica veterinária premium especializada em animais silvestres e exóticos.</p>
-      <a href="https://portfolio.magui.studio/projetos/powervet">Deploy</a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/flow/project-cover.webp" width="100%" alt="FLOW">
-      <h4>FLOW</h4>
-      <p>Aquarismo marinho premium com equipamentos e consultoria especializada.</p>
-      <a href="https://portfolio.magui.studio/projetos/flow">Deploy</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/arco/project-cover.webp" width="100%" alt="ARCO">
-      <h4>ARCO</h4>
-      <p>Clínica odontológica com diagnóstico digital e atendimento humanizado.</p>
-      <a href="https://portfolio.magui.studio/projetos/arco-odontologia">Deploy</a>
-    </td>
-    <td width="50%" valign="top" align="center">
       <img src="https://portfolio.magui.studio/images/dragon-tattoo/project-cover.webp" width="100%" alt="Dragon Tattoo">
       <h4>DRAGON TATTOO</h4>
       <p>Estúdio premium especializado em tatuagens orientais e japonesas autorais.</p>
       <a href="https://portfolio.magui.studio/projetos/dragon-tattoo">Deploy</a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/haven/project-cover.webp" width="100%" alt="HAVEN">
-      <h4>HAVEN</h4>
-      <p>Espaço inclusivo de beleza focado em neurodivergentes e acolhimento.</p>
-      <a href="https://portfolio.magui.studio/projetos/haven">Deploy</a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/step/project-cover.webp" width="100%" alt="STEP">
-      <h4>STEP</h4>
-      <p>Estúdio técnico de sneaker care para restauração e conservação premium.</p>
-      <a href="https://portfolio.magui.studio/projetos/step">Deploy</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
+   <td width="50%" valign="top" align="center">
       <img src="https://portfolio.magui.studio/images/flora/project-cover.webp" width="100%" alt="Flora">
       <h4>FLORA</h4>
       <p>Garden center premium com plantas ornamentais e decoração natural.</p>
       <a href="https://portfolio.magui.studio/projetos/flora">Deploy</a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/cazetv/project-cover.webp" width="100%" alt="CazéTV">
-      <h4>CAZÉTV</h4>
-      <p>Canal de transmissão esportiva e entretenimento digital de alta escala.</p>
-      <a href="https://portfolio.magui.studio/projetos/cazetv">Deploy</a>
-    </td>
+    </td> 
   </tr>
 </table>
