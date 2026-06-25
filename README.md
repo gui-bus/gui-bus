@@ -104,7 +104,6 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/portfolio.png?raw=true" width="100%" alt="Thumbnail Portfólio">
       <h4>PORTFÓLIO PESSOAL</h4>
       <p>Demonstração interativa de capacidades em software e design, focado em performance e UX.</p>
       <p><b>Stack:</b> Next.js 16, Tailwind CSS v4, next-intl, shadcn/ui.</p>
@@ -112,7 +111,6 @@
       <br><br>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/powerfit.png?raw=true" width="100%" alt="Thumbnail Powerfit">
       <h4>POWERFIT</h4>
       <p>Plataforma de gestão fitness com gamificação, dashboards e interface responsiva otimizada.</p>
       <p><b>Stack:</b> Next.js 16, React 19, TypeScript, Radix UI.</p>
@@ -123,7 +121,6 @@
 
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/thais.png?raw=true" width="100%" alt="Thumbnail Thaís Crisley">
       <h4>THAÍS CRISLEY - APAREÇA E VENDA</h4>
       <p>Landing Page de alta performance para o projeto "Apareça e Venda". Focada em autoridade e conversão.</p>
       <p><b>Stack:</b> React, Next.js 16, Tailwind CSS v4, Framer Motion.</p>
@@ -131,7 +128,6 @@
       <br><br>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/lume.png?raw=true" width="100%" alt="Thumbnail Lume">
       <h4>LUME</h4>
       <p>Plataforma de engenharia de carreira para criação de currículos otimizados para ATS.</p>
       <p><b>Stack:</b> React, Next.js, AI SDK, High-Performance UI.</p>
@@ -142,58 +138,114 @@
 
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/powervet.png?raw=true" width="100%" alt="Thumbnail PowerVet">
+      <img src="https://portfolio.magui.studio/images/nacho-libre/project-cover.webp" width="100%" alt="Nacho Libre">
+      <h4>NACHO LIBRE</h4>
+      <p>Restaurante mexicano moderno com cardápio, pedidos e experiência digital vibrante.</p>
+      <a href="#">Deploy</a> | <a href="#">GitHub</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://portfolio.magui.studio/images/vitta/project-cover.webp" width="100%" alt="VITTA">
+      <h4>VITTA</h4>
+      <p>Clínica de estética focada em saúde da pele, protocolos personalizados e autoridade.</p>
+      <a href="https://portfolio.magui.studio/">Deploy</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://portfolio.magui.studio/images/pulse/project-cover.webp" width="100%" alt="Pulse">
+      <h4>PULSE</h4>
+      <p>Marca fitness premium com tecnologia, performance e visual editorial.</p>
+      <a href="https://portfolio.magui.studio/">Deploy</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://portfolio.magui.studio/images/kroma/project-cover.webp" width="100%" alt="Kroma">
+      <h4>KROMA</h4>
+      <p>Soluções completas de energia solar para residências, empresas e indústrias.</p>
+      <a href="https://portfolio.magui.studio/">Deploy</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://portfolio.magui.studio/images/lacreme/project-cover.webp" width="100%" alt="La Crème">
+      <h4>LA CRÈME</h4>
+      <p>Confeitaria artesanal com foco em vitrine sazonal e encomendas.</p>
+      <a href="https://portfolio.magui.studio/">Deploy</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://portfolio.magui.studio/images/shinobi/project-cover.webp" width="100%" alt="SHINOBI">
+      <h4>SHINOBI</h4>
+      <p>Energético dark com hero interativa e narrativa de marca autoral.</p>
+     <a href="https://portfolio.magui.studio/">Deploy</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://portfolio.magui.studio/images/bites/project-cover.webp" width="100%" alt="BITES">
+      <h4>BITES</h4>
+      <p>Comfort food premium com proposta moderna, crocante e delivery-first.</p>
+      <a href="https://portfolio.magui.studio/">Deploy</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://portfolio.magui.studio/images/sayeg/project-cover.webp" width="100%" alt="Beatriz Sayeg">
+      <h4>BEATRIZ SAYEG</h4>
+      <p>Visagismo avançado e micropigmentação com posicionamento de luxo.</p>
+      <a href="https://portfolio.magui.studio/">Deploy</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://portfolio.magui.studio/images/powervet/project-cover.webp" width="100%" alt="POWERVET">
       <h4>POWERVET</h4>
-      <p>Landing page para clínica veterinária de elite (Cat-Friendly) com foco em autoridade médica.</p>
-      <p><b>Stack:</b> Next.js, Tailwind CSS, High-end Design.</p>
-      <a href="https://powervet.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/POWERVET">GitHub</a>
-      <br><br>
+      <p>Clínica veterinária premium especializada em animais silvestres e exóticos.</p>
+      <a href="https://portfolio.magui.studio/">Deploy</a>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/starkfit.png?raw=true" width="100%" alt="Thumbnail Starkfit">
-      <h4>STARKFIT</h4>
-      <p>LP premium para academia com estética Industrial & High-Tech e foco em resultados.</p>
-      <p><b>Stack:</b> Next.js, Framer Motion, TypeScript.</p>
-      <a href="https://starkfit.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/STARKFIT">GitHub</a>
-      <br><br>
+      <img src="https://portfolio.magui.studio/images/flow/project-cover.webp" width="100%" alt="FLOW">
+      <h4>FLOW</h4>
+      <p>Aquarismo marinho premium com equipamentos e consultoria especializada.</p>
+      <a href="https://portfolio.magui.studio/">Deploy</a>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/horizon.png?raw=true" width="100%" alt="Thumbnail Horizon">
-      <h4>HORIZON</h4>
-      <p>Landing page boutique para agência de viagens com estética Magazine Editorial.</p>
-      <p><b>Stack:</b> React, Next.js, Tipografia Luxury.</p>
-      <a href="https://horizon.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/Horizon">GitHub</a>
-      <br><br>
+      <img src="https://portfolio.magui.studio/images/arco/project-cover.webp" width="100%" alt="ARCO">
+      <h4>ARCO</h4>
+      <p>Clínica odontológica com diagnóstico digital e atendimento humanizado.</p>
+      <a href="https://portfolio.magui.studio/">Deploy</a>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/voltage.png?raw=true" width="100%" alt="Thumbnail Voltage">
-      <h4>VOLTAGE</h4>
-      <p>Experiência cinematográfica para festival de música eletrônica com foco sensorial.</p>
-      <p><b>Stack:</b> Next.js, Advanced UX, Industrial Design.</p>
-      <a href="https://voltage.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/Voltage">GitHub</a>
-      <br><br>
+      <img src="https://portfolio.magui.studio/images/dragon-tattoo/project-cover.webp" width="100%" alt="Dragon Tattoo">
+      <h4>DRAGON TATTOO</h4>
+      <p>Estúdio premium especializado em tatuagens orientais e japonesas autorais.</p>
+      <a href="https://portfolio.magui.studio/">Deploy</a>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/haven.png?raw=true" width="100%" alt="Thumbnail Haven">
+      <img src="https://portfolio.magui.studio/images/haven/project-cover.webp" width="100%" alt="HAVEN">
       <h4>HAVEN</h4>
-      <p>Landing page para barbearia clássica com narrativa visual imersiva e luxuosa.</p>
-      <p><b>Stack:</b> Next.js, UI/UX Design, Magazine Style.</p>
-      <a href="https://haven.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/Haven">GitHub</a>
-      <br><br>
+      <p>Espaço inclusivo de beleza focado em neurodivergentes e acolhimento.</p>
+      <a href="https://portfolio.magui.studio/">Deploy</a>
     </td>
     <td width="50%" valign="top" align="center">
-       <img src="https://github.com/gui-bus/portfolio/blob/master/public/projects/onyx.png?raw=true" width="100%" alt="Thumbnail Onyx">
-      <h4>ONYX</h4>
-      <p>Boutique jurídica internacional com estética Dark & Gold e foco em autoridade.</p>
-      <p><b>Stack:</b> Next.js, Strategic UX, Ultra-luxo UI.</p>
-      <a href="https://onyx.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/Onyx">GitHub</a>
-      <br><br>
+      <img src="https://portfolio.magui.studio/images/step/project-cover.webp" width="100%" alt="STEP">
+      <h4>STEP</h4>
+      <p>Estúdio técnico de sneaker care para restauração e conservação premium.</p>
+      <a href="https://portfolio.magui.studio/">Deploy</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://portfolio.magui.studio/images/flora/project-cover.webp" width="100%" alt="Flora">
+      <h4>FLORA</h4>
+      <p>Garden center premium com plantas ornamentais e decoração natural.</p>
+      <a href="https://portfolio.magui.studio/">Deploy</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://portfolio.magui.studio/images/cazetv/project-cover.webp" width="100%" alt="CazéTV">
+      <h4>CAZÉTV</h4>
+      <p>Canal de transmissão esportiva e entretenimento digital de alta escala.</p>
+      <a href="https://portfolio.magui.studio/">Deploy</a>
     </td>
   </tr>
 </table>
