@@ -3,13 +3,15 @@
   <p><b>Especialista em Desenvolvimento Front-End | React & Next.js</b></p>
 
   <p>
-    Sou Desenvolvedor Frontend focado no ecossistema React e Next.js, trabalhando no dia a dia com TypeScript e Tailwind CSS.
+    Desenvolvedor focado na entrega de interfaces de alta performance com React e Next.js. Combino expertise em UI/UX e Figma com uma rotina de desenvolvimento acelerada por IA, garantindo que o design chegue ao código com fidelidade e arquitetura escalável.
+  </p>
 
-​O que me diferencia é conseguir transitar muito bem entre o design e o código: tenho uma bagagem forte de UI/UX, domino o Figma e uso ferramentas de Inteligência Artificial na minha rotina para acelerar o desenvolvimento e aumentar minha produtividade. O resultado disso são interfaces fiéis ao design, limpas e que funcionam bem na prática.
+  <p>
+    Atualmente, estou expandindo minha atuação para o <b>Back-End</b>, consolidando meu perfil Full Stack para entregar soluções completas, robustas e de fácil manutenção.
+  </p>
 
-​No código, priorizo boas práticas, arquitetura sólida e testes, sempre pensando na performance e na manutenção do projeto a longo prazo.
-
-​No momento, estou disponível para novas propostas e desafios profissionais. Caso tenha uma oportunidade alinhada ao meu perfil, pode entrar em contato direto por aqui ou pelos canais abaixo:
+  <p>
+    Focado em resultados, código limpo e eficiência técnica. Disponível para novos desafios e colaborações.
   </p>
 
   <div>
@@ -38,9 +40,6 @@
   <img alt="HeroUI" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HeroUI.svg">
   <img alt="ShadCN" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ShadCNUI.svg">
   <img alt="Framer Motion" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Framer%20Motion.svg">
-  <img alt="Radix UI" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Radix.svg">
-  <img alt="Iconify" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Iconify.svg">
-  <img alt="Lucide" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Lucide.svg">
   <img alt="Phosphor Icons" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Phosphor%20Icons.svg">
   <img alt="React Hook Form" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React%20Hook%20Form.svg">
   <img alt="React Query" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React%20Query.svg">
@@ -54,6 +53,10 @@
   <img alt="Fastify" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Fastify.svg">
   <img alt="Prisma" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PrismaORM.svg">
   <img alt="Postgresql" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg">
+  <img alt="Redis" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Redis.svg">
+  <img alt="BullMQ" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/BullMQ.svg">
+  <img alt="Scalar" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Scalar.svg">
+  <img alt="JWT" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/JWT.svg">
   <img alt="Supabase" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Supabase.svg">
   <img alt="Next Auth" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Next%20Auth.svg">
   <img alt="Clerk" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Clerk.svg">
@@ -75,33 +78,9 @@
   <img alt="Git" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg">
   <img alt="Cursor" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Cursor.svg">
   <img alt="Gemini" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gemini.svg">
-  <img alt="Windsurf" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Windsurf.svg">
 </p>
 
-<div align="center">
-  <h2>Projeto em Destaque</h2>
-</div>
-
-<div align="center">
-  <a href="https://magui.studio" target="_blank">
-    <img src="https://github.com/MAGUI-studio/MAGUI.studio/blob/master/public/images/magui.png" width="100%" alt="Thumbnail MAGUI.studio">
-  </a>
-  <h3>MAGUI.studio</h3>
-  <p><b>Estúdio de Estratégia Visual & Engenharia de Interface</b></p>
-  <p>
-    A MAGUI.studio é meu estudio de desenvolvimento digital de elite desenvolvido para transformar presenças de marca através de um equilíbrio rigoroso entre estética minimalista e engenharia de software de ponta.
-  </p>
-  <p>
-    <b>Stack:</b> Next.js 16 (App Router), React 19, Tailwind CSS v4, Framer Motion, next-intl, Vitest, Playwright.
-  </p>
-  <p>
-    <a href="https://magui.studio" target="_blank">Deploy</a>
-  </p>
-</div>
-
-<br/>
-
-<h2 align="center">Sistemas</h2>
+<h2 align="center">Projetos em destaque</h2>
 
 <table width="100%">
   <tr>
@@ -114,7 +93,7 @@
     <td width="50%" valign="top" align="center">
       <h4>LUME</h4>
       <p>Plataforma de engenharia de carreira para criação de currículos otimizados para ATS.</p>
-      <a href="https://lume.guibus.dev/pt">Deploy</a> | <a href="https://github.com/gui-bus/lume">GitHub</a>
+      <a href="https://lume.guibus.dev/pt">Deploy</a> | <a href="https://github.com/gui-bus/lume">Repositório</a>
       <br><br>
     </td>
   </tr>
@@ -124,14 +103,31 @@
       <h4>POWERFIT Frontend</h4>
       <p>A experiência visual do POWERFIT. Interface fluida e responsiva com dashboard de treinos, gamificação e interações sociais. Desenvolvida com Next.js 15, React 19 e Tailwind CSS v4.</p>
       <p><b>Stack:</b> Next.js, React, TypeScript, Tailwind CSS, Orval e Vitest.</p>
-      <a href="https://powerfit.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/POWERFIT-Frontend">GitHub</a>
+      <a href="https://powerfit.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/POWERFIT-Frontend">Repositório</a>
       <br><br>
     </td>
     <td width="50%" valign="top" align="center">
       <h4>POWERFIT API</h4>
       <p>O cérebro por trás do POWERFIT. API robusta com IA nativa para treinos, sistema de conquistas e feed social. Desenvolvida com Node.js 24, Fastify 5 e Prisma 7.</p>
       <p><b>Stack:</b> Node.js, Fastify, PostgreSQL, Prisma ORM, AI SDK e Vitest.</p>
-      <a href="https://powerfit-api.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/POWERFIT-API">GitHub</a>
+      <a href="https://powerfit-api.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/POWERFIT-API">Repositório</a>
+      <br><br>
+    </td>
+  </tr>
+
+  <tr>
+     <td width="50%" valign="top" align="center">
+      <h4>API de Mensageria e Filas Resilientes</h4>
+      <p>API assíncrona e resiliente de processamento de filas desenvolvida com NestJS, BullMQ e Redis. Inclui tratamento de falhas com DLQ, concorrência, retentativas automáticas, documentação interativa com Scalar, testes com Jest e suporte a Docker.</p>
+      <p><b>Stack:</b> NestJS, Typescript, BullMQ, Redis, Jest, Docker e Scalar.</p>
+      <a href="https://queueapi-nestjs.onrender.com/">Deploy</a> | <a href="https://github.com/gui-bus/QueueAPI-NESTJS">Repositório</a>
+      <br><br>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h4>API de Lista de tarefas</h4>
+      <p>API modular de alta performance para gerenciamento de usuários e tarefas com autenticação JWT, controle de taxa (Rate Limiting), banco SQLite via Prisma ORM, suíte com 70+ testes automatizados (Unit/E2E), Docker e pipeline de CI/CD (GitHub Actions).</p>
+      <p><b>Stack:</b> NestJS, Typescript, JWT, Prisma ORM, Jest, Docker e Scalar.</p>
+      <a href="https://taskapi-nestjs.onrender.com/docs">Deploy</a> | <a href="https://github.com/gui-bus/TaskAPI-NESTJS">Repositório</a>
       <br><br>
     </td>
   </tr>
@@ -237,19 +233,5 @@
       <p>Visagismo avançado e micropigmentação com posicionamento de luxo.</p>
       <a href="https://portfolio.magui.studio/projetos/sayeg-beauty-studio">Deploy</a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/dragon-tattoo/project-cover.webp" width="100%" alt="Dragon Tattoo">
-      <h4>DRAGON TATTOO</h4>
-      <p>Estúdio premium especializado em tatuagens orientais e japonesas autorais.</p>
-      <a href="https://portfolio.magui.studio/projetos/dragon-tattoo">Deploy</a>
-    </td>
-   <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/flora/project-cover.webp" width="100%" alt="Flora">
-      <h4>FLORA</h4>
-      <p>Garden center premium com plantas ornamentais e decoração natural.</p>
-      <a href="https://portfolio.magui.studio/projetos/flora">Deploy</a>
-    </td> 
   </tr>
 </table>
