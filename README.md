@@ -32,53 +32,80 @@
   <p>Tecnologias, bibliotecas e ferramentas que utilizo para construir produtos digitais de alta qualidade.</p>
 </div>
 
-<p align="center">
+<div align="center">
+  <!-- Frontend -->
   <img alt="React" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg">
   <img alt="NextJS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg">
   <img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
   <img alt="Tailwind" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg">
-  <img alt="HeroUI" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HeroUI.svg">
   <img alt="ShadCN" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ShadCNUI.svg">
   <img alt="Framer Motion" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Framer%20Motion.svg">
   <img alt="Phosphor Icons" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Phosphor%20Icons.svg">
+
+  <!-- Estado / Requisições / Validação -->
   <img alt="React Hook Form" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React%20Hook%20Form.svg">
   <img alt="React Query" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React%20Query.svg">
   <img alt="Tanstack Query" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Tanstack.svg">
   <img alt="Zustand" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Zustand.svg">
   <img alt="Axios" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Axios.svg">
   <img alt="Zod" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Zod.svg">
+
+  <!-- Backend -->
   <img alt="Node JS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg">
-  <img alt="Express" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ExpressJS.svg">
   <img alt="Nest JS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NestJS.svg">
-  <img alt="Fastify" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Fastify.svg">
+
+  <!-- Banco de Dados -->
   <img alt="Prisma" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PrismaORM.svg">
   <img alt="Postgresql" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg">
   <img alt="Redis" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Redis.svg">
+
+  <!-- Arquitetura / Filas / APIs -->
   <img alt="BullMQ" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/BullMQ.svg">
-  <img alt="Scalar" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Scalar.svg">
+  <img alt="Scalar" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Scalar.svg" title="Scalar API Docs / Swagger">
+
+  <!-- Autenticação -->
   <img alt="JWT" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/JWT.svg">
-  <img alt="Supabase" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Supabase.svg">
   <img alt="Next Auth" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Next%20Auth.svg">
   <img alt="Clerk" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Clerk.svg">
-  <img alt="Docker" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
-  <img alt="Vercel" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Vercel.svg">
+
+  <!-- Serviços -->
+  <img alt="UploadThing" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Uploadthing.svg" title="UploadThing">
+  <img alt="Resend" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Resend.svg" title="Resend Email Service">
+  <img alt="Sanity" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Sanity.svg">
+
+  <!-- Testes -->
   <img alt="Jest" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Jest.svg">
   <img alt="Vitest" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Vitest.svg">
   <img alt="Cypress" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Cypress.svg">
+  <img alt="Playwright" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Playwright.svg" title="Playwright">
+
+  <!-- Qualidade -->
+  <img alt="ESLint" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ESLint.svg">
   <img alt="Biome" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Biome.svg">
   <img alt="Husky" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Husky.svg">
   <img alt="Conventional Commits" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Conventional%20Commits.svg">
   <img alt="Semantic Release" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Semantic%20Release.svg">
-  <img alt="Sanity" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Sanity.svg">
-  <img alt="Tiptap" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Tiptap.svg">
-  <img alt="Figma" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Figma.svg">
-  <img alt="Google Analytics" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Analytics.svg">
-  <img alt="ClickUp" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ClickUP.svg">
-  <img alt="Vite" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Vite.svg">
+
+  <!-- Infra / DevOps -->
+  <img alt="Docker" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
   <img alt="Git" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg">
+  <img alt="Github Actions" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github%20Actions.svg" title="GitHub Actions">
+  <img alt="Turborepo" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Turborepo.svg" title="Turborepo">
+  <img alt="pnpm" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/pnpm.svg" title="pnpm">
+  <img alt="Vercel" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Vercel.svg">
+  <img alt="Render" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Render.svg">
+
+  <!-- Design / Gestão -->
+  <img alt="Figma" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Figma.svg">
+  <img alt="ClickUp" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ClickUP.svg">
+  <img alt="Google Analytics" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Analytics.svg">
+
+  <!-- IA -->
   <img alt="Cursor" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Cursor.svg">
   <img alt="Gemini" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gemini.svg">
-</p>
+  <img alt="Codex" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Codex.svg">
+  <img alt="Antigravity" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Antigravity.svg">
+</div>
 
 <h2 align="center">Projetos em destaque</h2>
 
