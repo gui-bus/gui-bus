@@ -56,7 +56,7 @@
 
   <!-- Banco de Dados -->
   <img alt="Prisma" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PrismaORM.svg">
-  <img alt="Postgresql" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg">
+  <img alt="Postgresql" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PostgreSQL.svg">
   <img alt="Redis" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Redis.svg">
 
   <!-- Arquitetura / Filas / APIs -->
