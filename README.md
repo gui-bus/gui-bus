@@ -97,7 +97,7 @@
 
   <!-- Design / Gestão -->
   <img alt="Figma" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Figma.svg">
-  <img alt="ClickUp" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ClickUP.svg">
+  <img alt="ClickUp" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ClickUp.svg">
   <img alt="Google Analytics" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Analytics.svg">
 
   <!-- IA -->
