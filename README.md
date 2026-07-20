@@ -109,6 +109,14 @@
 
 <h2 align="center">Projetos em destaque</h2>
 
+<div width="50%" valign="top" align="center">
+  <h4>Atlas HRMS — Sistema de Gestão de Pessoas e ATS Corporativo</h4>
+  <p>O Atlas HRMS é um ecossistema corporativo completo de gerenciamento de recursos humanos e rastreamento de candidatos (ATS - Applicant Tracking System). Projetado sobre uma arquitetura de monorepo moderna e escalável, o sistema       integra de ponta a ponta as rotinas operacionais de departamento pessoal, ponto eletrônico digital com banco de horas, gerenciamento de ausências por conformidade CLT, controle de cargos/departamentos estruturados e um portal público de   vagas integrado.</p>
+  <a href="https://github.com/gui-bus/Atlas-HRMS">Repositório</a>
+</div>
+
+<br/><br/>
+
 <table width="100%">
   <tr>
      <td width="50%" valign="top" align="center">
