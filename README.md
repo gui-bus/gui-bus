@@ -157,6 +157,17 @@
 
 <br/><br/>
 
+<div width="50%" valign="top" align="center">
+  <img src="https://raw.githubusercontent.com/gui-bus/Portfolio/master/public/logos/logo/white_logo.svg" alt="Guibus Logo" width="300" />
+  <br/><br/>
+  <p>Este portfólio é uma demonstração interativa das minhas habilidades como Desenvolvedor Full-stack & Designer, construído sob uma arquitetura de altíssima performance e com foco na experiência do usuário. O projeto utiliza o Next.js 16 (App Router), internacionalização robusta sem prefixo de rotas com next-intl, estilização de última geração com Tailwind CSS v4 e componentes reutilizáveis do shadcn/ui.</p>
+
+  <p>Para conhecer a arquitetura, a documentação e outros detalhes técnicos do projeto, acesse o repositório abaixo:</p>
+  <a href="https://github.com/gui-bus/Portfolio">Repositório</a>
+</div>
+
+<br/><br/>
+
 <h2 align="center">Projetos Backend</h2>
 
 <table width="100%">
