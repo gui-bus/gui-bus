@@ -168,6 +168,17 @@
 
 <br/><br/>
 
+<div width="50%" valign="top" align="center">
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/techicons_logo.svg" alt="TechIcons Logo" width="300" />
+  <br/><br/>
+  <p>Uma coleção premium e selecionada de mais de 290 ícones de tecnologia de alta qualidade, ideal para seus perfis no GitHub, arquivos README e projetos. Cada ícone foi cuidadosamente projetado para funcionar perfeitamente tanto em temas claros quanto escuros.</p>
+
+  <p>Para conhecer a arquitetura, a documentação e outros detalhes técnicos do projeto, acesse o repositório abaixo:</p>
+  <a href="https://github.com/gui-bus/TechIcons">Repositório</a>
+</div>
+
+<br/><br/>
+
 <h2 align="center">Projetos Backend</h2>
 
 <table width="100%">
