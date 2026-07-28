@@ -29,7 +29,7 @@
 
 <div align="center">
   <h2>Stack & Skills</h2>
-  <p>Tecnologias, bibliotecas e ferramentas que utilizo para construir produtos digitais de alta qualidade.</p>
+  <p>Abaixo está a lista de algumas das tecnologias, bibliotecas e ferramentas das quais já tive contato durante a minha trajetória como desenvolvedor e que utilizo para construir produtos digitais de alta qualidade.</p>
 </div>
 
 <div align="center">
@@ -109,164 +109,71 @@
 
 <h2 align="center">Projetos em destaque</h2>
 
+<br/><br/>
+
 <div width="50%" valign="top" align="center">
-  <h4>Atlas HRMS — Sistema de Gestão de Pessoas e ATS Corporativo</h4>
+  <img src="https://raw.githubusercontent.com/gui-bus/Lume/master/public/logo_white.svg" alt="LUME Logo" width="300" />
+  <br/><br/>
+  <p>O Lume é uma plataforma profissional de candidaturas desenvolvida para ajudar candidatos a criar, gerenciar e otimizar todo o seu ecossistema de apresentação profissional (currículos de alta performance, cartas de apresentação elegantes e mensagens de e-mail personalizadas para recrutadores). A plataforma permite estruturar informações de forma clara, validar currículos contra leitores ATS, organizar documentos por tags, e exportar currículos e cartas diretamente para PDF de alta qualidade com suporte total a múltiplos idiomas.</p>
+
+  <p>Para conhecer a arquitetura, a documentação e outros detalhes técnicos do projeto, acesse o repositório abaixo:</p>
+  <a href="https://github.com/gui-bus/Lume">Repositório</a>
+</div>
+
+<br/><br/>
+
+<div width="50%" valign="top" align="center">
+  <img src="https://raw.githubusercontent.com/gui-bus/Atlas-HRMS/master/apps/web/public/utils/logo_white.svg" alt="Atlas HRMS Logo" width="200" />
+  <br/><br/>
   <p>O Atlas HRMS é um ecossistema corporativo completo de gerenciamento de recursos humanos e rastreamento de candidatos (ATS - Applicant Tracking System). Projetado sobre uma arquitetura de monorepo moderna e escalável, o sistema       integra de ponta a ponta as rotinas operacionais de departamento pessoal, ponto eletrônico digital com banco de horas, gerenciamento de ausências por conformidade CLT, controle de cargos/departamentos estruturados e um portal público de   vagas integrado.</p>
+
+  <p>Para conhecer a arquitetura, a documentação e outros detalhes técnicos do projeto, acesse o repositório abaixo:</p>
   <a href="https://github.com/gui-bus/Atlas-HRMS">Repositório</a>
 </div>
 
 <br/><br/>
 
+<div width="50%" valign="top" align="center">
+  <img src="https://raw.githubusercontent.com/gui-bus/MAGUI-Landing-Pages/master/public/utils/logo.svg" alt="MAGUI Landing Pages Logo" width="300" />
+  <br/><br/>
+  <p>Este projeto é o meu portfólio pessoal de landing pages, criado para mostrar o desenvolvimento de sites modernos, interativos e muito bonitos. Ele funciona como uma vitrine de projetos reais e autorais criados para diversos segmentos (como restaurantes, clínicas, e-commerce, moda e tecnologia). Em vez de usar modelos prontos ou copiar a mesma estrutura de sempre, cada landing page foi feita do zero. Cada uma tem seu próprio estilo visual, suas próprias fontes, cores e animações personalizadas para combinar perfeitamente com a proposta da marca.</p>
+
+  <p>Para conhecer a arquitetura, a documentação e outros detalhes técnicos do projeto, acesse o repositório abaixo:</p>
+  <a href="https://github.com/gui-bus/MAGUI-Landing-Pages">Repositório</a>
+</div>
+
+<br/><br/>
+
+<div width="50%" valign="top" align="center">
+  <img src="https://raw.githubusercontent.com/gui-bus/POWERFIT-Frontend/master/public/images/powerfit-logo.svg" alt="POWERFIT Logo" width="300" />
+  <br/><br/>
+<p>O POWER.FIT é uma plataforma full stack para gestão de treinos, desenvolvida para ajudar usuários a planejar, acompanhar e evoluir sua rotina de exercícios. O sistema centraliza o gerenciamento de treinos, o acompanhamento do progresso e recursos voltados à motivação, oferecendo uma experiência moderna e intuitiva. Construído com tecnologias de ponta do ecossistema JavaScript/TypeScript, o projeto combina uma aplicação web com performance de SSR (Server Side Rendering) e uma API de alta performance baseada em Fastify 5, utilizando Zod para validação e tipagem estrita, além de uma arquitetura escalável capaz de suportar alta concorrência com segurança e integridade dos dados.</p>
+
+  <p>Para conhecer a arquitetura, a documentação e outros detalhes técnicos do projeto, acesse os repositórios abaixo:</p>
+  <a href="https://github.com/gui-bus/POWERFIT-Frontend">Repositório FRONTEND</a>
+  -
+  <a href="https://github.com/gui-bus/POWERFIT-API">Repositório BACKEND</a>
+</div>
+
+<br/><br/>
+
+<h2 align="center">Projetos Backend</h2>
+
 <table width="100%">
-  <tr>
-     <td width="50%" valign="top" align="center">
-      <h4>CRM MAGUI.studio</h4>
-      <p>Plataforma própria do meu estúdio para gerenciamento de clientes e projetos.</p>
-      <a href="https://dashboard.magui.studio/sign-in">Deploy</a>
-      <br><br>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h4>LUME</h4>
-      <p>Plataforma de engenharia de carreira para criação de currículos otimizados para ATS.</p>
-      <a href="https://lume.guibus.dev/pt">Deploy</a> | <a href="https://github.com/gui-bus/lume">Repositório</a>
-      <br><br>
-    </td>
-  </tr>
-
-   <tr>
-     <td width="50%" valign="top" align="center">
-      <h4>POWERFIT Frontend</h4>
-      <p>A experiência visual do POWERFIT. Interface fluida e responsiva com dashboard de treinos, gamificação e interações sociais. Desenvolvida com Next.js 15, React 19 e Tailwind CSS v4.</p>
-      <p><b>Stack:</b> Next.js, React, TypeScript, Tailwind CSS, Orval e Vitest.</p>
-      <a href="https://powerfit.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/POWERFIT-Frontend">Repositório</a>
-      <br><br>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h4>POWERFIT API</h4>
-      <p>O cérebro por trás do POWERFIT. API robusta com IA nativa para treinos, sistema de conquistas e feed social. Desenvolvida com Node.js 24, Fastify 5 e Prisma 7.</p>
-      <p><b>Stack:</b> Node.js, Fastify, PostgreSQL, Prisma ORM, AI SDK e Vitest.</p>
-      <a href="https://powerfit-api.guibus.dev/">Deploy</a> | <a href="https://github.com/gui-bus/POWERFIT-API">Repositório</a>
-      <br><br>
-    </td>
-  </tr>
-
   <tr>
      <td width="50%" valign="top" align="center">
       <h4>API de Mensageria e Filas Resilientes</h4>
       <p>API assíncrona e resiliente de processamento de filas desenvolvida com NestJS, BullMQ e Redis. Inclui tratamento de falhas com DLQ, concorrência, retentativas automáticas, documentação interativa com Scalar, testes com Jest e suporte a Docker.</p>
       <p><b>Stack:</b> NestJS, Typescript, BullMQ, Redis, Jest, Docker e Scalar.</p>
-      <a href="https://queueapi-nestjs.onrender.com/">Deploy</a> | <a href="https://github.com/gui-bus/QueueAPI-NESTJS">Repositório</a>
+      <a href="https://github.com/gui-bus/QueueAPI-NESTJS">Repositório</a>
       <br><br>
     </td>
     <td width="50%" valign="top" align="center">
       <h4>API de Lista de tarefas</h4>
       <p>API modular de alta performance para gerenciamento de usuários e tarefas com autenticação JWT, controle de taxa (Rate Limiting), banco SQLite via Prisma ORM, suíte com 70+ testes automatizados (Unit/E2E), Docker e pipeline de CI/CD (GitHub Actions).</p>
       <p><b>Stack:</b> NestJS, Typescript, JWT, Prisma ORM, Jest, Docker e Scalar.</p>
-      <a href="https://taskapi-nestjs.onrender.com/docs">Deploy</a> | <a href="https://github.com/gui-bus/TaskAPI-NESTJS">Repositório</a>
+      <a href="https://github.com/gui-bus/TaskAPI-NESTJS">Repositório</a>
       <br><br>
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">Landing Pages da MAGUI.studio</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/cazetv/project-cover.webp" width="100%" alt="CazéTV">
-      <h4>CAZÉTV</h4>
-      <p>Canal de transmissão esportiva e entretenimento digital de alta escala.</p>
-      <a href="https://portfolio.magui.studio/projetos/cazetv">Deploy</a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/powervet/project-cover.webp" width="100%" alt="POWERVET">
-      <h4>POWERVET</h4>
-      <p>Clínica veterinária premium especializada em animais silvestres e exóticos.</p>
-      <a href="https://portfolio.magui.studio/projetos/powervet">Deploy</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/arco/project-cover.webp" width="100%" alt="ARCO">
-      <h4>ARCO</h4>
-      <p>Clínica odontológica com diagnóstico digital e atendimento humanizado.</p>
-      <a href="https://portfolio.magui.studio/projetos/arco-odontologia">Deploy</a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/flow/project-cover.webp" width="100%" alt="FLOW">
-      <h4>FLOW</h4>
-      <p>Aquarismo marinho premium com equipamentos e consultoria especializada.</p>
-      <a href="https://portfolio.magui.studio/projetos/flow">Deploy</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/bites/project-cover.webp" width="100%" alt="BITES">
-      <h4>BITES</h4>
-      <p>Comfort food premium com proposta moderna, crocante e delivery-first.</p>
-      <a href="https://portfolio.magui.studio/projetos/bites">Deploy</a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/lacreme/project-cover.webp" width="100%" alt="La Crème">
-      <h4>LA CRÈME</h4>
-      <p>Confeitaria artesanal com foco em vitrine sazonal e encomendas.</p>
-      <a href="https://portfolio.magui.studio/projetos/la-creme">Deploy</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/step/project-cover.webp" width="100%" alt="STEP">
-      <h4>STEP</h4>
-      <p>Estúdio técnico de sneaker care para restauração e conservação premium.</p>
-      <a href="https://portfolio.magui.studio/projetos/step">Deploy</a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/haven/project-cover.webp" width="100%" alt="HAVEN">
-      <h4>HAVEN</h4>
-      <p>Espaço inclusivo de beleza focado em neurodivergentes e acolhimento.</p>
-      <a href="https://portfolio.magui.studio/projetos/haven">Deploy</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/nacho-libre/project-cover.webp" width="100%" alt="Nacho Libre">
-      <h4>NACHO LIBRE</h4>
-      <p>Restaurante mexicano moderno com cardápio, pedidos e experiência digital vibrante.</p>
-      <a href="https://portfolio.magui.studio/projetos/nacho-libre">Deploy</a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/vitta/project-cover.webp" width="100%" alt="VITTA">
-      <h4>VITTA</h4>
-      <p>Clínica de estética focada em saúde da pele, protocolos personalizados e autoridade.</p>
-      <a href="https://portfolio.magui.studio/projetos/vitta">Deploy</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/pulse/project-cover.webp" width="100%" alt="Pulse">
-      <h4>PULSE</h4>
-      <p>Marca fitness premium com tecnologia, performance e visual editorial.</p>
-      <a href="https://portfolio.magui.studio/projetos/pulse">Deploy</a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/kroma/project-cover.webp" width="100%" alt="Kroma">
-      <h4>KROMA</h4>
-      <p>Soluções completas de energia solar para residências, empresas e indústrias.</p>
-      <a href="https://portfolio.magui.studio/projetos/kroma">Deploy</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/shinobi/project-cover.webp" width="100%" alt="SHINOBI">
-      <h4>SHINOBI</h4>
-      <p>Energético dark com hero interativa e narrativa de marca autoral.</p>
-      <a href="https://portfolio.magui.studio/projetos/shinobi">Deploy</a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://portfolio.magui.studio/images/sayeg/project-cover.webp" width="100%" alt="Beatriz Sayeg">
-      <h4>BEATRIZ SAYEG</h4>
-      <p>Visagismo avançado e micropigmentação com posicionamento de luxo.</p>
-      <a href="https://portfolio.magui.studio/projetos/sayeg-beauty-studio">Deploy</a>
     </td>
   </tr>
 </table>
