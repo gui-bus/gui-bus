@@ -163,7 +163,7 @@
 <p>O Bloom é uma biblioteca profissional de componentes de interface (UI) premium baseada em React, Radix UI e Tailwind CSS. Desenvolvida sob rígidos padrões de performance e acessibilidade, a biblioteca centraliza tokens de design em variáveis CSS semânticas e mapas de JavaScript estruturados, possibilitando a consistência completa de temas claro/escuro e adaptações visuais instantâneas. A biblioteca inclui controles de layout robustos, animações fluidas via Framer Motion, e uma suíte completa de testes de regressão de comportamento e integração automatizados.</p>
 
   <p>Para conhecer a arquitetura, a documentação e outros detalhes técnicos do projeto, acesse o repositório abaixo:</p>
-  <a href="https://github.com/gui-bus/Bloom">Repositório FRONTEND</a>
+  <a href="https://github.com/gui-bus/Bloom">Repositório</a>
 </div>
 
 <br/><br/>
