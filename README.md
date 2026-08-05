@@ -10,21 +10,23 @@
     Atualmente, estou expandindo minha atuação para o <b>Back-End</b>, consolidando meu perfil Full Stack para entregar soluções completas, robustas e de fácil manutenção.
   </p>
 
-  <p>
-    Focado em resultados, código limpo e eficiência técnica. Disponível para novos desafios e colaborações.
-  </p>
+<div>
+  <a href="https://guibus.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge" alt="Portfolio">
+  </a>
 
-  <div>
-    <a href="https://guibus.dev" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-guibus.dev-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-    </a>
-    <a href="https://www.linkedin.com/in/gui-bus/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
+  <a href="https://lume.guibus.dev/pt/share/guilherme-bustamante" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo-2563EB?style=for-the-badge" alt="Currículo">
+  </a>
+
+  <a href="https://www.linkedin.com/in/gui-bus/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge" alt="LinkedIn">
+  </a>
+
   <a href="mailto:contato@guibus.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=icloud&logoColor=white" alt="Email">
-</a>
-  </div>
+    <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge" alt="Email">
+  </a>
+</div>
 </div>
 
 <div align="center">
@@ -114,9 +116,15 @@
 <div width="50%" valign="top" align="center">
   <img src="https://raw.githubusercontent.com/gui-bus/Lume/master/public/logo_white.svg" alt="LUME Logo" width="300" />
   <br/><br/>
-  <p>O Lume é uma plataforma profissional de candidaturas desenvolvida para ajudar candidatos a criar, gerenciar e otimizar todo o seu ecossistema de apresentação profissional (currículos de alta performance, cartas de apresentação elegantes e mensagens de e-mail personalizadas para recrutadores). A plataforma permite estruturar informações de forma clara, validar currículos contra leitores ATS, organizar documentos por tags, e exportar currículos e cartas diretamente para PDF de alta qualidade com suporte total a múltiplos idiomas.</p>
 
-  <p>Para conhecer a arquitetura, a documentação e outros detalhes técnicos do projeto, acesse o repositório abaixo:</p>
+  <p>
+    O Lume é uma plataforma para criação de currículos, cartas de apresentação e documentos profissionais desenvolvida com React, Next.js e TypeScript. O projeto permite criar documentos personalizados, organizar informações profissionais, validar currículos para compatibilidade com sistemas ATS, exportar arquivos em PDF e gerenciar diferentes versões de documentos com suporte a múltiplos idiomas.
+  </p>
+
+  <p>
+    Para conhecer a arquitetura, a documentação e outros detalhes técnicos do projeto, acesse o repositório abaixo:
+  </p>
+
   <a href="https://github.com/gui-bus/Lume">Repositório</a>
 </div>
 
@@ -125,20 +133,49 @@
 <div width="50%" valign="top" align="center">
   <img src="https://raw.githubusercontent.com/gui-bus/Atlas-HRMS/master/apps/web/public/utils/logo_white.svg" alt="Atlas HRMS Logo" width="200" />
   <br/><br/>
-  <p>O Atlas HRMS é um ecossistema corporativo completo de gerenciamento de recursos humanos e rastreamento de candidatos (ATS - Applicant Tracking System). Projetado sobre uma arquitetura de monorepo moderna e escalável, o sistema       integra de ponta a ponta as rotinas operacionais de departamento pessoal, ponto eletrônico digital com banco de horas, gerenciamento de ausências por conformidade CLT, controle de cargos/departamentos estruturados e um portal público de   vagas integrado.</p>
 
-  <p>Para conhecer a arquitetura, a documentação e outros detalhes técnicos do projeto, acesse o repositório abaixo:</p>
+  <p>
+    O Atlas HRMS é um sistema de gestão de recursos humanos desenvolvido em arquitetura monorepo utilizando Next.js, NestJS, Prisma e PostgreSQL. O projeto reúne módulos para gerenciamento de colaboradores, cargos, departamentos, férias, controle de ponto, banco de horas, recrutamento (ATS), autenticação e dashboards administrativos.
+  </p>
+
+  <p>
+    Para conhecer a arquitetura, a documentação e outros detalhes técnicos do projeto, acesse o repositório abaixo:
+  </p>
+
   <a href="https://github.com/gui-bus/Atlas-HRMS">Repositório</a>
 </div>
 
 <br/><br/>
 
 <div width="50%" valign="top" align="center">
-  <img src="https://raw.githubusercontent.com/gui-bus/MAGUI-Landing-Pages/master/public/utils/logo.svg" alt="MAGUI Landing Pages Logo" width="300" />
+  <img src="https://raw.githubusercontent.com/gui-bus/Bloom/master/public/logo/logo_white.svg" alt="Bloom Logo" width="150" />
   <br/><br/>
-  <p>Este projeto é o meu portfólio pessoal de landing pages, criado para mostrar o desenvolvimento de sites modernos, interativos e muito bonitos. Ele funciona como uma vitrine de projetos reais e autorais criados para diversos segmentos (como restaurantes, clínicas, e-commerce, moda e tecnologia). Em vez de usar modelos prontos ou copiar a mesma estrutura de sempre, cada landing page foi feita do zero. Cada uma tem seu próprio estilo visual, suas próprias fontes, cores e animações personalizadas para combinar perfeitamente com a proposta da marca.</p>
 
-  <p>Para conhecer a arquitetura, a documentação e outros detalhes técnicos do projeto, acesse o repositório abaixo:</p>
+  <p>
+    O Bloom é uma biblioteca de componentes React inspirada no shadcn/ui, desenvolvida com React, Next.js, Radix UI e Tailwind CSS. O projeto reúne mais de 70 componentes reutilizáveis, sistema de design tokens, documentação interativa, CLI própria para instalação via npm e testes automatizados com Vitest e Playwright, funcionando como um design system focado em acessibilidade, consistência visual e experiência do desenvolvedor.
+  </p>
+
+  <p>
+    Para conhecer a arquitetura, a documentação e outros detalhes técnicos do projeto, acesse o repositório abaixo:
+  </p>
+
+  <a href="https://github.com/gui-bus/Bloom">Repositório</a>
+</div>
+
+<br/><br/>
+
+<div width="50%" valign="top" align="center">
+  <img src="https://raw.githubusercontent.com/gui-bus/MAGUI-Landing-Pages/master/public/utils/logo.svg" alt="Landing Pages Logo" width="300" />
+  <br/><br/>
+
+  <p>
+    Coleção de landing pages desenvolvidas com React, Next.js e TypeScript para diferentes segmentos e propostas visuais. Cada página foi construída do zero com layouts personalizados, componentes reutilizáveis, animações e diferentes sistemas visuais, explorando responsividade, experiência do usuário e criação de interfaces modernas.
+  </p>
+
+  <p>
+    Para conhecer a arquitetura, a documentação e outros detalhes técnicos do projeto, acesse o repositório abaixo:
+  </p>
+
   <a href="https://github.com/gui-bus/MAGUI-Landing-Pages">Repositório</a>
 </div>
 
@@ -147,9 +184,18 @@
 <div width="50%" valign="top" align="center">
   <img src="https://raw.githubusercontent.com/gui-bus/POWERFIT-Frontend/master/public/images/powerfit-logo.svg" alt="POWERFIT Logo" width="300" />
   <br/><br/>
-<p>O POWER.FIT é uma plataforma full stack para gestão de treinos, desenvolvida para ajudar usuários a planejar, acompanhar e evoluir sua rotina de exercícios. O sistema centraliza o gerenciamento de treinos, o acompanhamento do progresso e recursos voltados à motivação, oferecendo uma experiência moderna e intuitiva. Construído com tecnologias de ponta do ecossistema JavaScript/TypeScript, o projeto combina uma aplicação web com performance de SSR (Server Side Rendering) e uma API de alta performance baseada em Fastify 5, utilizando Zod para validação e tipagem estrita, além de uma arquitetura escalável capaz de suportar alta concorrência com segurança e integridade dos dados.</p>
 
-  <p>Para conhecer a arquitetura, a documentação e outros detalhes técnicos do projeto, acesse os repositórios abaixo:</p>
+  <p>
+    O POWER.FIT é uma plataforma full stack para gerenciamento de treinos, desenvolvida para auxiliar usuários no planejamento, acompanhamento e evolução da rotina de exercícios. O sistema permite criar treinos personalizados, organizar exercícios, acompanhar progresso e centralizar informações relacionadas ao desempenho físico através de uma experiência moderna e responsiva.
+  </p>
+
+  <p>
+    O projeto foi construído utilizando Next.js, TypeScript e Fastify, seguindo uma arquitetura separada entre frontend e backend. A aplicação web utiliza renderização server-side (SSR), componentes reutilizáveis e gerenciamento eficiente de estado, enquanto a API implementa autenticação, validações com Zod, persistência com Prisma ORM e PostgreSQL, seguindo boas práticas de organização e escalabilidade.
+  </p>
+
+  <p>
+    Para conhecer a arquitetura, a documentação e outros detalhes técnicos do projeto, acesse os repositórios abaixo:
+  </p>
   <a href="https://github.com/gui-bus/POWERFIT-Frontend">Repositório FRONTEND</a>
   -
   <a href="https://github.com/gui-bus/POWERFIT-API">Repositório BACKEND</a>
@@ -158,33 +204,21 @@
 <br/><br/>
 
 <div width="50%" valign="top" align="center">
-  <img src="https://raw.githubusercontent.com/gui-bus/Bloom/master/public/logo/logo_white.svg" alt="Bloom Logo" width="150" />
-  <br/><br/>
-<p>O Bloom é uma biblioteca profissional de componentes de interface (UI) premium baseada em React, Radix UI e Tailwind CSS. Desenvolvida sob rígidos padrões de performance e acessibilidade, a biblioteca centraliza tokens de design em variáveis CSS semânticas e mapas de JavaScript estruturados, possibilitando a consistência completa de temas claro/escuro e adaptações visuais instantâneas. A biblioteca inclui controles de layout robustos, animações fluidas via Framer Motion, e uma suíte completa de testes de regressão de comportamento e integração automatizados.</p>
-
-  <p>Para conhecer a arquitetura, a documentação e outros detalhes técnicos do projeto, acesse o repositório abaixo:</p>
-  <a href="https://github.com/gui-bus/Bloom">Repositório</a>
-</div>
-
-<br/><br/>
-
-<div width="50%" valign="top" align="center">
-  <img src="https://raw.githubusercontent.com/gui-bus/Portfolio/master/public/logos/logo/white_logo.svg" alt="Guibus Logo" width="300" />
-  <br/><br/>
-  <p>Este portfólio é uma demonstração interativa das minhas habilidades como Desenvolvedor Full-stack & Designer, construído sob uma arquitetura de altíssima performance e com foco na experiência do usuário. O projeto utiliza o Next.js 16 (App Router), internacionalização robusta sem prefixo de rotas com next-intl, estilização de última geração com Tailwind CSS v4 e componentes reutilizáveis do shadcn/ui.</p>
-
-  <p>Para conhecer a arquitetura, a documentação e outros detalhes técnicos do projeto, acesse o repositório abaixo:</p>
-  <a href="https://github.com/gui-bus/Portfolio">Repositório</a>
-</div>
-
-<br/><br/>
-
-<div width="50%" valign="top" align="center">
   <img src="https://github.com/gui-bus/TechIcons/blob/main/techicons_logo.svg" alt="TechIcons Logo" width="300" />
   <br/><br/>
-  <p>Uma coleção premium e selecionada de mais de 290 ícones de tecnologia de alta qualidade, ideal para seus perfis no GitHub, arquivos README e projetos. Cada ícone foi cuidadosamente projetado para funcionar perfeitamente tanto em temas claros quanto escuros.</p>
 
-  <p>Para conhecer a arquitetura, a documentação e outros detalhes técnicos do projeto, acesse o repositório abaixo:</p>
+  <p>
+    O TechIcons é uma biblioteca open source de ícones de tecnologia criada para facilitar a construção de README's, portfólios e documentações de projetos. O repositório reúne mais de 290 ícones organizados por categoria, desenvolvidos para representar ferramentas, frameworks e serviços utilizados no desenvolvimento de software.
+  </p>
+
+  <p>
+    Cada ícone foi projetado com foco em consistência visual, alta qualidade e compatibilidade com diferentes contextos de uso, incluindo suporte para temas claros e escuros. O projeto busca simplificar a criação de apresentações técnicas mais profissionais e visualmente organizadas.
+  </p>
+
+  <p>
+    Para conhecer a documentação, catálogo de ícones e outros detalhes do projeto, acesse o repositório abaixo:
+  </p>
+
   <a href="https://github.com/gui-bus/TechIcons">Repositório</a>
 </div>
 
